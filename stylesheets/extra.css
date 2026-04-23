@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Buenard:wght@400;700&display=swap');
+
+/* ── Illinois color palette ── */
+:root {
+  --illinois-navy:  #13294B;
+  --illinois-orange: #FF5F05;
+}
+
+/* ── Light mode ── */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #13294B;
+  --md-primary-fg-color--light: #1d3d6e;
+  --md-primary-fg-color--dark:  #0d1e35;
+  --md-primary-bg-color:        #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.75);
+  --md-accent-fg-color:         #FF5F05;
+  --md-accent-fg-color--transparent: rgba(232, 74, 39, 0.1);
+}
+
+/* ── Dark mode ── */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #0d1e35;
+  --md-primary-fg-color--light: #13294B;
+  --md-primary-fg-color--dark:  #080f1a;
+  --md-primary-bg-color:        #e8ecf0;
+  --md-primary-bg-color--light: rgba(232, 236, 240, 0.75);
+  --md-accent-fg-color:         #ff6e47;
+  --md-accent-fg-color--transparent: rgba(255, 110, 71, 0.1);
+}
+
+/* ── Header ── */
+.md-header {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* ── Nav tabs (sit below navy header, same color) ── */
+.md-tabs {
+  background-color: var(--illinois-navy);
+  border-bottom: 3px solid var(--illinois-orange);
+}
+
+.md-tabs__link {
+  color: rgba(255, 255, 255, 0.75) !important;
+  opacity: 1 !important;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #ffffff !important;
+}
+
+.md-tabs__link--active {
+  border-bottom: 3px solid var(--illinois-orange);
+  margin-bottom: -3px;
+}
+
+/* ── Sidebar background ── */
+[data-md-color-scheme="default"] .md-sidebar__scrollwrap {
+  background-color: #eef1f6;
+}
+
+[data-md-color-scheme="default"] .md-nav--secondary .md-nav__title {
+  background-color: var(--illinois-navy);
+  color: #ffffff;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px 4px 0 0;
+}
+
+/* ── Sidebar nav ── */
+[data-md-color-scheme="default"] .md-nav__link--active {
+  color: var(--illinois-navy);
+  font-weight: 700;
+  border-left: 3px solid var(--illinois-orange);
+  padding-left: 0.4em;
+}
+
+[data-md-color-scheme="default"] .md-nav__link:hover {
+  color: var(--illinois-navy);
+}
+
+/* ── Links ── */
+[data-md-color-scheme="default"] .md-typeset a {
+  color: var(--illinois-orange);
+}
+
+[data-md-color-scheme="default"] .md-typeset a:hover {
+  color: #c03d1f;
+}
+
+/* ── Buenard headings ── */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Buenard', Georgia, serif;
+}
+
+.md-typeset h1 {
+  color: var(--illinois-navy);
+}
+
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: var(--illinois-navy);
+  border-bottom: 2px solid var(--illinois-orange);
+  padding-bottom: 0.2em;
+}
+
+[data-md-color-scheme="default"] .md-typeset h3 {
+  color: var(--illinois-navy);
+  border-left: 4px solid var(--illinois-navy);
+  padding-left: 0.5em;
+}
+
+/* ── Content: wider grid ── */
+.md-grid {
+  max-width: 1320px;
+}
+
+/* ── Tables ── */
+.md-typeset table:not([class]) {
+  border: 1px solid #d0d7de;
+  border-radius: 4px;
+  font-size: 0.85rem;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #13294B;
+  color: #ffffff;
+  border-bottom: 2px solid var(--illinois-orange);
+}
+
+/* ── Footer ── */
+.md-footer {
+  background-color: var(--illinois-navy);
+}
+
+/* ── CliMAS department icon (inline next to dept name) ── */
+.dept-icon {
+  height: 1.4em;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 0.3em;
+  border-radius: 50%;
+}
+
+/* ── Book cover ── */
+.book-cover {
+  float: left;
+  width: 130px;
+  margin: 0 2rem 1rem 0;
+  border-radius: 4px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);
+}
+
+/* ── Profile photo ── */
+.profile-photo {
+  float: left;
+  width: 15%;
+  min-width: 80px;
+  margin: 0 2rem 1rem 0;
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 600px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem;
+    width: 30%;
+  }
+}
