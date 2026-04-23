@@ -79,6 +79,11 @@
   display: none;
 }
 
+/* ── Orange right border on sidebar ── */
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  border-right: 3px solid var(--illinois-orange);
+}
+
 /* ── Sidebar nav ── */
 [data-md-color-scheme="default"] .md-nav__link--active {
   color: var(--illinois-navy);
