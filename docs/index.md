@@ -19,7 +19,7 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 - **Radar & Remote Sensing** — Polarimetric radar theory, retrieval algorithms, and open-source radar software.
 - **Terrain–Precipitation Coupling** — Orographic effects on convection and precipitation in complex terrain environments.
 - **Cloud Microphysics & Snowfall** — Particle size distributions, lake-effect snow, and radar microphysical retrievals.
-- **Urban Hydrometeorology** — Urban heat island effects on precipitation and flooding, with a focus on the Chicago metropolitan area.
+- **Urban Hydrometeorology** — Urban effects on precipitation and flooding.
 
 ---
 
