@@ -76,8 +76,10 @@
 }
 
 /* ── Hide primary sidebar page title ── */
-.md-sidebar--primary .md-nav__title {
-  display: none;
+.md-sidebar--primary .md-nav__title,
+.md-sidebar--primary .md-nav__title[for],
+.md-sidebar--primary label.md-nav__title {
+  display: none !important;
 }
 
 /* ── Orange right border on sidebar ── */
