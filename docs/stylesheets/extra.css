@@ -119,7 +119,6 @@
 .md-typeset table:not([class]) {
   border: 1px solid #d0d7de;
   border-radius: 4px;
-  font-size: 0.85rem;
 }
 
 .md-typeset table:not([class]) th {
