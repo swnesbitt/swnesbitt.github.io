@@ -1,0 +1,21 @@
+site_name: Steve Nesbitt
+site_url: https://swnesbitt.github.io/
+site_description: Steve Nesbitt - Professor & Department Head, Climate, Meteorology & Atmospheric Sciences, University of Illinois
+site_author: Steve Nesbitt
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
+  - Field Campaigns: field-campaigns.md
+  - Group Members: group-members.md
+  - Publications: publications.md
+  - Open Source Software: open-source.md
+  - RELAMPAGO WRF Forecasts: relampago-wrf.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
