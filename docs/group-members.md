@@ -56,4 +56,32 @@
 
 ## Undergraduate Alumni
 
-Steve Nesbitt has mentored 35+ undergraduate researchers since 2009. Students who completed capstone projects are noted with (*); undergraduate researchers with (+).
+| Year | Name | Notes |
+|------|------|-------|
+| 2009 | Roger Akers | undergraduate researcher |
+| 2011 | Katie Sulski | capstone |
+| 2011 | Nicolas Mycyk | capstone |
+| 2012 | Thomas Ventimiglia | capstone |
+| 2012 | Zaneta Gacek | undergraduate researcher |
+| 2013 | Ana Ortiz | capstone |
+| 2013 | Gabriel Ewing | undergraduate researcher |
+| 2015 | Lauren Carter | capstone |
+| 2015 | Stephen Gaggiano | capstone |
+| 2017 | Carson Soch | capstone |
+| 2017 | James Shackelton | capstone |
+| 2017 | Brian O'Shea | capstone |
+| 2017 | Justin Mandruccolo | capstone |
+| 2017 | Anthony Grande | capstone |
+| 2018 | Tobias Ross | capstone |
+| 2018 | Brian Chung | undergraduate researcher |
+| 2020 | Scott James | capstone |
+| 2020 | Xiqui Luo | capstone |
+| 2021 | Daniel Lopez | capstone |
+| 2022 | Briana Bragg | SOARS |
+| 2022 | Jason Henry | capstone |
+| 2023 | Sean O'Connor | undergraduate researcher |
+| 2023 | Jake Vile | capstone |
+| 2023 | Julia Williams | undergraduate researcher |
+| 2025 | Alyssa Shih | capstone |
+| 2025 | Charlie Remmers | capstone |
+| 2026 | Will O'Brien | capstone |
