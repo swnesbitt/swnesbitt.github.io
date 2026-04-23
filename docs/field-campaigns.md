@@ -24,6 +24,9 @@ Principal Investigator. DOE-funded study of urban effects on precipitation, floo
 ### Lake Effect Snow Microphysics (2022–2024)
 *Buffalo, NY*
 
+<img src="../images/buffalo_blizzard_2022.jpg" alt="Laurel Street in Buffalo during the December 2022 blizzard" class="campaign-photo">
+<p class="photo-credit">Credit: <a href="https://commons.wikimedia.org/wiki/File:Laurel_Street_during_December_2022_Buffalo,_New_York_blizzard_-_20221224_-_01.jpg">Wikimedia Commons</a>, CC BY-SA 4.0</p>
+
 Study of microphysical processes in lake-effect snowstorms using polarimetric radar and in situ aircraft observations.
 
 ### PERiLS (2022–2023)
