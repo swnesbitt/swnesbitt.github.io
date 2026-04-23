@@ -9,6 +9,9 @@ The following are selected open source software projects developed or co-develop
 ### [Py-ART](https://github.com/swnesbitt/pyart)
 The Python ARM Radar Toolkit — a data model driven interactive toolkit for working with weather radar data. Supports reading, processing, visualizing, and writing radar data in a wide variety of formats.
 
+### [xradar](https://github.com/swnesbitt/xradar)
+A high-speed Rust port of [xradar](https://docs.openradarscience.org/projects/xradar/), a tool for working with weather radar data in xarray. Brings major performance improvements to radar data ingestion and processing through Rust-backed I/O.
+
 ### [AWOT](https://github.com/swnesbitt/AWOT)
 **Airborne Weather Observations Toolkit** — A Python package for reading, analyzing, and visualizing airborne meteorological and radar data from field campaigns.
 
