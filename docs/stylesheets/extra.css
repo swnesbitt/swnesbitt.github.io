@@ -73,6 +73,7 @@
   color: #ffffff;
   padding: 0.4rem 0.8rem;
   border-radius: 4px 4px 0 0;
+  box-shadow: none;
 }
 
 /* ── Hide primary sidebar page title ── */
