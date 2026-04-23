@@ -46,6 +46,6 @@ Ladino-Rincon, A., and **S. W. Nesbitt**, 2025: Radar DataTree: A FAIR and Cloud
 
 For the complete publication record, see:
 
-- [Google Scholar](https://scholar.google.com/citations?user=) *(update with your Scholar profile link)*
-- [ORCID](https://orcid.org/) *(update with your ORCID)*
+- [Google Scholar](https://scholar.google.com/citations?user=7iqutUMAAAAJ&hl=en)
+- [ORCID: 0000-0003-0348-0452](https://orcid.org/0000-0003-0348-0452)
 - [ResearchGate](https://www.researchgate.net/profile/Stephen-Nesbitt)
