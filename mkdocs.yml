@@ -44,6 +44,7 @@ nav:
   - Publications: publications.md
   - Open Source Software: open-source.md
   - RELAMPAGO WRF Forecasts: relampago-wrf.md
+  - Full CV: https://uofi.box.com/s/2j7gmjdkrnti84ne8291359j0hwjrgsz
 
 markdown_extensions:
   - toc:
