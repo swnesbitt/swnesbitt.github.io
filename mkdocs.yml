@@ -14,6 +14,9 @@ nav:
   - Open Source Software: open-source.md
   - RELAMPAGO WRF Forecasts: relampago-wrf.md
 
+hooks:
+  - hooks/bib_hook.py
+
 markdown_extensions:
   - toc:
       permalink: true
