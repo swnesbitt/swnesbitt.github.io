@@ -6,6 +6,8 @@
 <img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"> [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS)  
 University of Illinois Urbana-Champaign
 
+<img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon-wide"> Joint Appointment, [Environmental Sciences Division](https://www.anl.gov/evs), Argonne National Laboratory
+
 ---
 
 ## About
