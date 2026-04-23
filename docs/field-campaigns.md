@@ -31,7 +31,7 @@ Collaborative NSF/NOAA field campaign examining the mechanisms of tornado produc
 
 ---
 
-## Mid-Period Campaigns (2008–2016)
+## Selected Mid-Career Campaigns (2008–2016)
 
 ### OLYMPEX (2015)
 **Olympic Mountain Experiment**  
