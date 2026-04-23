@@ -28,7 +28,7 @@ theme:
     - search.suggest
     - search.highlight
   font:
-    text: Source Serif 4
+    text: Crimson Text
     code: Source Code Pro
   favicon: images/earth.svg
   icon:
