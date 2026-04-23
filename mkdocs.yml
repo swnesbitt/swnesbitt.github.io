@@ -9,14 +9,14 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: white
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: custom
-      accent: blue
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -30,6 +30,8 @@ theme:
   font:
     text: Source Sans Pro
     code: Source Code Pro
+  icon:
+    logo: material/earth
 
 hooks:
   - hooks/bib_hook.py

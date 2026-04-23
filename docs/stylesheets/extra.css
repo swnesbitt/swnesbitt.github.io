@@ -1,75 +1,105 @@
-/* ── Match PyData Sphinx Theme aesthetic ── */
+@import url('https://fonts.googleapis.com/css2?family=Buenard:wght@400;700&display=swap');
 
-/* Light mode: white header with a subtle border, dark text */
+/* ── Illinois color palette ── */
+:root {
+  --illinois-navy:  #13294B;
+  --illinois-orange: #E84A27;
+}
+
+/* ── Light mode ── */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color:        #ffffff;
-  --md-primary-fg-color--light: #f5f5f5;
-  --md-primary-fg-color--dark:  #e0e0e0;
-  --md-primary-bg-color:        #11191f;
-  --md-primary-bg-color--light: rgba(17, 25, 31, 0.7);
-  --md-accent-fg-color:         #2962ff;
+  --md-primary-fg-color:        #13294B;
+  --md-primary-fg-color--light: #1d3d6e;
+  --md-primary-fg-color--dark:  #0d1e35;
+  --md-primary-bg-color:        #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.75);
+  --md-accent-fg-color:         #E84A27;
+  --md-accent-fg-color--transparent: rgba(232, 74, 39, 0.1);
 }
 
-/* Dark mode: match PyData's dark slate header */
+/* ── Dark mode ── */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:        #1a2332;
-  --md-primary-fg-color--light: #243040;
-  --md-primary-fg-color--dark:  #111b27;
+  --md-primary-fg-color:        #0d1e35;
+  --md-primary-fg-color--light: #13294B;
+  --md-primary-fg-color--dark:  #080f1a;
   --md-primary-bg-color:        #e8ecf0;
-  --md-primary-bg-color--light: rgba(232, 236, 240, 0.7);
-  --md-accent-fg-color:         #5c9cf5;
+  --md-primary-bg-color--light: rgba(232, 236, 240, 0.75);
+  --md-accent-fg-color:         #ff6e47;
+  --md-accent-fg-color--transparent: rgba(255, 110, 71, 0.1);
 }
 
-/* Remove default drop shadow; add a clean bottom border */
+/* ── Header ── */
 .md-header {
-  box-shadow: none;
-  border-bottom: 1px solid #d0d7de;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
 }
 
-/* Keep header title dark in light mode */
-[data-md-color-scheme="default"] .md-header__title,
-[data-md-color-scheme="default"] .md-header__topic {
-  color: #11191f;
+/* ── Nav tabs (sit below navy header, same color) ── */
+.md-tabs {
+  background-color: var(--illinois-navy);
+  border-bottom: 3px solid var(--illinois-orange);
 }
 
-/* Nav tabs: dark text in light mode */
-[data-md-color-scheme="default"] .md-tabs__link {
-  color: #333333;
-  opacity: 1;
+.md-tabs__link {
+  color: rgba(255, 255, 255, 0.75) !important;
+  opacity: 1 !important;
 }
 
-[data-md-color-scheme="default"] .md-tabs__link--active,
-[data-md-color-scheme="default"] .md-tabs__link:hover {
-  color: #11191f;
-  border-bottom: 2px solid #2962ff;
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #ffffff !important;
 }
 
-[data-md-color-scheme="default"] .md-tabs {
-  background-color: #ffffff;
-  border-bottom: 1px solid #d0d7de;
+.md-tabs__link--active {
+  border-bottom: 3px solid var(--illinois-orange);
+  margin-bottom: -3px;
 }
 
-/* Search bar icon dark in light mode */
-[data-md-color-scheme="default"] .md-search__icon {
-  color: #333333;
-}
-
-/* Sidebar nav links */
-[data-md-color-scheme="default"] .md-nav__link {
-  color: #333333;
-}
-
+/* ── Sidebar nav ── */
 [data-md-color-scheme="default"] .md-nav__link--active {
-  color: #2962ff;
+  color: var(--illinois-orange);
   font-weight: 600;
 }
 
-/* Content: slightly wider, PyData-like max width */
+[data-md-color-scheme="default"] .md-nav__link:hover {
+  color: var(--illinois-orange);
+}
+
+/* ── Links ── */
+[data-md-color-scheme="default"] .md-typeset a {
+  color: var(--illinois-orange);
+}
+
+[data-md-color-scheme="default"] .md-typeset a:hover {
+  color: #c03d1f;
+}
+
+/* ── Buenard headings ── */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Buenard', Georgia, serif;
+}
+
+.md-typeset h1 {
+  color: var(--illinois-navy);
+}
+
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: var(--illinois-navy);
+  border-bottom: 2px solid var(--illinois-orange);
+  padding-bottom: 0.2em;
+}
+
+[data-md-color-scheme="default"] .md-typeset h3 {
+  color: #1d3d6e;
+}
+
+/* ── Content: wider grid ── */
 .md-grid {
   max-width: 1320px;
 }
 
-/* Tables: match PyData clean style */
+/* ── Tables ── */
 .md-typeset table:not([class]) {
   border: 1px solid #d0d7de;
   border-radius: 4px;
@@ -77,32 +107,24 @@
 }
 
 .md-typeset table:not([class]) th {
-  background-color: #f6f8fa;
-  border-bottom: 2px solid #d0d7de;
+  background-color: #13294B;
+  color: #ffffff;
+  border-bottom: 2px solid var(--illinois-orange);
 }
 
-/* Links: blue like PyData */
-[data-md-color-scheme="default"] .md-typeset a {
-  color: #2962ff;
-}
-
-[data-md-color-scheme="default"] .md-typeset a:hover {
-  color: #1a47cc;
-}
-
-/* Footer border */
+/* ── Footer ── */
 .md-footer {
-  border-top: 1px solid #d0d7de;
+  background-color: var(--illinois-navy);
 }
 
-/* Profile photo on home page */
+/* ── Profile photo ── */
 .profile-photo {
   float: left;
   width: 15%;
   min-width: 80px;
   margin: 0 2rem 1rem 0;
   border-radius: 6px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
 
 @media screen and (max-width: 600px) {
