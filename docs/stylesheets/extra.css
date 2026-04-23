@@ -74,6 +74,11 @@
   border-radius: 4px 4px 0 0;
 }
 
+/* ── Hide primary sidebar page title ── */
+.md-sidebar--primary .md-nav__title {
+  display: none;
+}
+
 /* ── Sidebar nav ── */
 [data-md-color-scheme="default"] .md-nav__link--active {
   color: var(--illinois-navy);
