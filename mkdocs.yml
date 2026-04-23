@@ -28,7 +28,7 @@ theme:
     - search.suggest
     - search.highlight
   font:
-    text: Esteban
+    text: Source Serif 4
     code: Source Code Pro
   favicon: images/earth.svg
   icon:

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Esteban&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,700;1,400&display=swap');
 
 /* ── Illinois color palette ── */
 :root {
@@ -99,11 +99,11 @@
   color: #c03d1f;
 }
 
-/* ── Esteban headings ── */
+/* ── Source Serif 4 headings ── */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
-  font-family: 'Esteban', Georgia, serif;
+  font-family: 'Source Serif 4', Georgia, serif;
 }
 
 .md-typeset h1 {
