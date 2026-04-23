@@ -141,6 +141,21 @@
   border-radius: 50%;
 }
 
+/* ── Affiliation line (icon + text, wraps cleanly) ── */
+.affil-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.35em;
+  margin-bottom: 0.2rem;
+  line-height: 1.4;
+}
+
+.affil-line img {
+  flex-shrink: 0;
+  margin-top: 0.15em;
+  margin-right: 0;
+}
+
 /* ── Wide dept icon (rectangular logos, e.g. Argonne) ── */
 .dept-icon-wide {
   height: 1.2rem;

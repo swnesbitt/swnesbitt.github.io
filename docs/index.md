@@ -2,11 +2,11 @@
 
 <img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
 
-**Professor & Department Head**  
-<img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"> [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS)  
-University of Illinois Urbana-Champaign
+**Professor & Department Head**
 
-<img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"> Joint Appointment, [Environmental Sciences Division](https://www.anl.gov/evs), Argonne National Laboratory
+<div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
+
+<div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 
 ---
 
