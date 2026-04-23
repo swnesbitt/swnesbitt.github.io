@@ -3,14 +3,14 @@
 <img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
 
 **Professor & Department Head**  
-Department of Climate, Meteorology & Atmospheric Sciences (CliMAS)  
+<img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"> [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS)  
 University of Illinois Urbana-Champaign
 
 ---
 
 ## About
 
-Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud physics and extreme precipitation.
+Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud dynamics and physics and high-impact weather.
 
 ---
 
@@ -22,6 +22,20 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 - **Terrain–Precipitation Coupling** — Orographic effects on convection and precipitation in complex terrain environments.
 - **Cloud Microphysics & Snowfall** — Particle size distributions, lake-effect snow, and radar microphysical retrievals.
 - **Urban Hydrometeorology** — Urban effects on precipitation and flooding.
+
+---
+
+## Textbook
+
+<img src="images/book-cover.png" alt="Radar Meteorology: A First Course" class="book-cover">
+
+[**Radar Meteorology: A First Course**](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118432662)  
+Robert M. Rauber and Stephen W. Nesbitt  
+Wiley-Blackwell, 2018 · 488 pp.
+
+*Radar Meteorology: A First Course* is a graduate-level textbook designed for students encountering weather radar for the first time. It covers the physical principles of radar, signal processing, polarimetric observables, precipitation estimation, severe weather applications, and emerging radar technologies. The book is used in ATMS 410 (Radar Meteorology) at the University of Illinois and at universities worldwide.
+
+<div style="clear:both;"></div>
 
 ---
 
