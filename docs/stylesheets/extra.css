@@ -55,15 +55,11 @@
 }
 
 /* ── Sidebar background ── */
-[data-md-color-scheme="default"] .md-sidebar--primary {
+[data-md-color-scheme="default"] .md-sidebar--primary .md-sidebar__scrollwrap {
   background-image: url('../images/cloud-sidebar.jpg');
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   background-repeat: no-repeat;
-}
-
-[data-md-color-scheme="default"] .md-sidebar--primary .md-sidebar__scrollwrap {
-  background-color: transparent;
 }
 
 [data-md-color-scheme="default"] .md-sidebar--primary .md-nav {
