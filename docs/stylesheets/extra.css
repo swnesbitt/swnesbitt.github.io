@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Buenard:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Esteban&display=swap');
 
 /* ── Illinois color palette ── */
 :root {
@@ -55,8 +55,20 @@
 }
 
 /* ── Sidebar background ── */
-[data-md-color-scheme="default"] .md-sidebar__scrollwrap {
-  background-color: #eef1f6;
+[data-md-color-scheme="default"] .md-sidebar--primary {
+  background-image: url('../images/cloud-sidebar.jpg');
+  background-size: 100% auto;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+[data-md-color-scheme="default"] .md-sidebar--primary .md-sidebar__scrollwrap {
+  background-color: transparent;
+}
+
+[data-md-color-scheme="default"] .md-sidebar--primary .md-nav {
+  background-color: rgba(238, 241, 246, 0.82);
+  border-radius: 4px;
 }
 
 [data-md-color-scheme="default"] .md-nav--secondary .md-nav__title {
@@ -87,11 +99,11 @@
   color: #c03d1f;
 }
 
-/* ── Buenard headings ── */
+/* ── Esteban headings ── */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
-  font-family: 'Buenard', Georgia, serif;
+  font-family: 'Esteban', Georgia, serif;
 }
 
 .md-typeset h1 {
