@@ -64,6 +64,3 @@ NASA field campaign studying aerosol-cloud-precipitation interactions in the mar
 | [KWAJEX](https://ghrc.nsstc.nasa.gov/home/field-campaigns/kwajex) — Kwajalein Experiment | 1999 | Kwajalein Atoll, Marshall Islands | Scientist |
 | [CAMEX-3](https://ghrc.nsstc.nasa.gov/home/field-campaigns/camex-3) — Convection And Moisture Experiment | 1998 | Florida / Caribbean | Aircraft Scientist |
 | TEFLUN-A — Texas-Florida Underflight | 1998 | Texas | Radiosonde Scientist |
-
-<img src="../images/gcpex_snow.jpg" alt="Snowfall instrumentation during the GCPEX campaign in Ontario, Canada, 2011-2012" class="campaign-photo">
-<p class="photo-credit">Credit: NASA Global Precipitation Measurement mission</p>
