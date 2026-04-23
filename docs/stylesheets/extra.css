@@ -85,13 +85,15 @@
   border-right: 3px solid var(--illinois-orange);
 }
 
-/* ── Orange rounded polygon around Table of Contents ── */
-[data-md-color-scheme="default"] .md-sidebar--secondary .md-sidebar__scrollwrap {
+/* ── Orange rounded box around Table of Contents ── */
+[data-md-color-scheme="default"] .md-sidebar--secondary .md-sidebar__inner {
   margin: 1rem 0.5rem;
   border: 2.5px solid var(--illinois-orange);
-  border-radius: 16px 4px 16px 4px;
+  border-radius: 12px;
   padding: 0.5rem 0.25rem;
-  box-shadow: 0 0 0 1px rgba(255, 95, 5, 0.15), 3px 3px 10px rgba(255, 95, 5, 0.1);
+  box-shadow: 3px 3px 10px rgba(255, 95, 5, 0.1);
+  display: inline-block;
+  width: calc(100% - 1rem);
 }
 
 /* ── Sidebar nav ── */
