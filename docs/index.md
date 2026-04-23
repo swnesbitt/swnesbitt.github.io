@@ -10,7 +10,7 @@ University of Illinois Urbana-Champaign
 
 ## About
 
-Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle**. He is recognized for leading major international field campaigns studying cloud physics and extreme precipitation.
+Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud physics and extreme precipitation.
 
 ---
 
