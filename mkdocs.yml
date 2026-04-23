@@ -30,6 +30,7 @@ theme:
   font:
     text: Source Sans Pro
     code: Source Code Pro
+  favicon: images/earth.svg
   icon:
     logo: material/earth
 
