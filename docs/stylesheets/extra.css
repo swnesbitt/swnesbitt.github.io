@@ -76,10 +76,8 @@
   box-shadow: none;
 }
 
-/* ── Hide primary sidebar page title ── */
-.md-sidebar--primary .md-nav__title,
-.md-sidebar--primary .md-nav__title[for],
-.md-sidebar--primary label.md-nav__title {
+/* ── Hide primary sidebar nav content (tabs handle navigation) ── */
+.md-sidebar--primary .md-nav {
   display: none !important;
 }
 
