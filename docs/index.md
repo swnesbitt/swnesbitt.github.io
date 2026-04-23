@@ -1,5 +1,7 @@
 # Steve Nesbitt
 
+<img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
+
 **Professor & Department Head**  
 Department of Climate, Meteorology & Atmospheric Sciences (CliMAS)  
 University of Illinois Urbana-Champaign
