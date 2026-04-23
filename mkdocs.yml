@@ -28,7 +28,7 @@ theme:
     - search.suggest
     - search.highlight
   font:
-    text: Crimson Text
+    text: Radley
     code: Source Code Pro
   favicon: images/earth.svg
   icon:
