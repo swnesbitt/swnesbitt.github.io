@@ -19,6 +19,9 @@ Lead Principal Investigator of a $25M+ joint NSF/DOE/NASA/NOAA initiative deploy
 **Community Research on Climate and Urban Science**  
 *Chicago, IL*
 
+<img src="../images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago" class="campaign-photo">
+<p class="photo-credit">Credit: Argonne National Laboratory</p>
+
 Principal Investigator. DOE-funded study of urban effects on precipitation, flooding, and the local water cycle in the greater Chicago metropolitan area.
 
 ### Lake Effect Snow Microphysics (2022–2024)
@@ -41,6 +44,9 @@ Collaborative NSF/NOAA field campaign examining the mechanisms of tornado produc
 ### CAMP²Ex (2019)
 **Cloud, Aerosol and Monsoon Processes Philippines Experiment**  
 *Philippines*
+
+<img src="../images/camp2ex_group.jpg" alt="CAMP2Ex science team at Clark Airport, Philippines, August 2019" class="campaign-photo">
+<p class="photo-credit">Credit: ESPO, NASA</p>
 
 NASA field campaign studying aerosol-cloud-precipitation interactions in the maritime tropical environment. The P-3B and SPEC Learjet conducted 30 combined science flights in the vicinity of the Philippines, sampling convective cloud systems over the warm ocean west of Luzon.
 
