@@ -7,10 +7,10 @@ The following are selected open source software projects developed or co-develop
 ## Radar & Remote Sensing
 
 ### [Py-ART](https://github.com/swnesbitt/pyart)
-The Python ARM Radar Toolkit — a data model driven interactive toolkit for working with weather radar data. Supports reading, processing, visualizing, and writing radar data in a wide variety of formats.
+**Python ARM Radar Toolkit** — A data model driven interactive toolkit for working with weather radar data. Supports reading, processing, visualizing, and writing radar data in a wide variety of formats.
 
 ### [xradar](https://github.com/swnesbitt/xradar)
-A high-speed Rust port of [xradar](https://docs.openradarscience.org/projects/xradar/), a tool for working with weather radar data in xarray. Brings major performance improvements to radar data ingestion and processing through Rust-backed I/O.
+**High-speed Rust port of xradar** — A tool for working with weather radar data in xarray, rewritten with Rust-backed I/O for major performance improvements in radar data ingestion and processing.
 
 ### [AWOT](https://github.com/swnesbitt/AWOT)
 **Airborne Weather Observations Toolkit** — A Python package for reading, analyzing, and visualizing airborne meteorological and radar data from field campaigns.
@@ -67,7 +67,7 @@ Python tools to read and analyze data from Argentine weather radars, developed i
 ## Education & Computing
 
 ### [ams-2020-ml-python-course](https://github.com/swnesbitt/ams-2020-ml-python-course)
-Materials for the **Machine Learning in Python for Environmental Science Problems** AMS 2020 Short Course.
+**Machine Learning in Python for Environmental Science Problems** — Materials for the AMS 2020 Short Course.
 
 ### [uiuc-atmos-computing](https://github.com/swnesbitt/uiuc-atmos-computing)
 Documentation and tutorials for scientific computing within the Department of Climate, Meteorology & Atmospheric Sciences at the University of Illinois.
