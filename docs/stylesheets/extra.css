@@ -135,8 +135,8 @@
 
 /* ── CliMAS department icon (inline next to dept name) ── */
 .dept-icon {
-  height: 1.4em;
-  width: auto;
+  height: 1.2rem;
+  width: 1.2rem;
   vertical-align: middle;
   margin-right: 0.3em;
   border-radius: 50%;
