@@ -10,7 +10,7 @@ Steve Nesbitt has participated in 27 major field campaigns spanning 1998–2025,
 **Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations — Cloud, Aerosol, and Complex Terrain Interactions**  
 *Córdoba, Argentina*
 
-<img src="images/cacti_lightning.jpg" alt="Lightning over the Sierras de Córdoba during RELAMPAGO, November 2018" class="campaign-photo">
+<img src="../images/cacti_lightning.jpg" alt="Lightning over the Sierras de Córdoba during RELAMPAGO, November 2018" class="campaign-photo">
 <p class="photo-credit">Credit: U.S. Department of Energy Atmospheric Radiation Measurement (ARM) program</p>
 
 Lead Principal Investigator of a $25M+ joint NSF/DOE/NASA/NOAA initiative deploying over 100 scientists across 7 agencies in Argentina. RELAMPAGO-CACTI studied extreme convective storms, orographic convection, and cloud microphysics in the lee of the Andes — one of the world's most prolific regions for deep convection.
@@ -30,7 +30,7 @@ Study of microphysical processes in lake-effect snowstorms using polarimetric ra
 **Propagation, Evolution, and Rotation in Linear Storms**  
 *Southeastern United States*
 
-<img src="images/perils_banner.jpg" alt="PERiLS field campaign deployment in the southeastern United States" class="campaign-photo">
+<img src="../images/perils_banner.jpg" alt="PERiLS field campaign deployment in the southeastern United States" class="campaign-photo">
 <p class="photo-credit">Credit: NOAA National Severe Storms Laboratory</p>
 
 Collaborative NSF/NOAA field campaign examining the mechanisms of tornado production and severe weather in quasi-linear convective systems. Deployed radars, mesonets, and uncrewed aerial systems across seven states; documented 16 tornadoes within multi-Doppler coverage.
@@ -56,5 +56,5 @@ NASA field campaign studying aerosol-cloud-precipitation interactions in the mar
 | [CAMEX-3](https://ghrc.nsstc.nasa.gov/home/field-campaigns/camex-3) — Convection And Moisture Experiment | 1998 | Florida / Caribbean | Aircraft Scientist |
 | TEFLUN-A — Texas-Florida Underflight | 1998 | Texas | Radiosonde Scientist |
 
-<img src="images/gcpex_snow.jpg" alt="Snowfall instrumentation during the GCPEX campaign in Ontario, Canada, 2011-2012" class="campaign-photo">
+<img src="../images/gcpex_snow.jpg" alt="Snowfall instrumentation during the GCPEX campaign in Ontario, Canada, 2011-2012" class="campaign-photo">
 <p class="photo-credit">Credit: NASA Global Precipitation Measurement mission</p>
