@@ -2,9 +2,37 @@ site_name: Steve Nesbitt
 site_url: https://swnesbitt.github.io/
 site_description: Steve Nesbitt - Professor & Department Head, Climate, Meteorology & Atmospheric Sciences, University of Illinois
 site_author: Steve Nesbitt
+repo_url: https://github.com/swnesbitt
+repo_name: swnesbitt
 
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    - scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  font:
+    text: Source Sans Pro
+    code: Source Code Pro
+
+hooks:
+  - hooks/bib_hook.py
 
 nav:
   - Home: index.md
@@ -14,11 +42,11 @@ nav:
   - Open Source Software: open-source.md
   - RELAMPAGO WRF Forecasts: relampago-wrf.md
 
-hooks:
-  - hooks/bib_hook.py
-
 markdown_extensions:
   - toc:
       permalink: true
   - tables
   - attr_list
+
+extra_css:
+  - stylesheets/extra.css
