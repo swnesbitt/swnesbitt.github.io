@@ -40,7 +40,6 @@
 | Max Grover | Scientist, Spire |
 | George Duffy | Teaching Professor, University of Wisconsin-Milwaukee |
 | Lina Choi | Software Engineer, Google |
-| Randy Chase | Scientist, Tomorrow.io |
 | Kimberly Dill | Instrumentation Engineer, Droplet Measurement Technologies |
 | Patrick Brown | Engineer, Michaels Energy |
 
