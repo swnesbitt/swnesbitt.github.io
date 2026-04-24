@@ -25,13 +25,16 @@ def _format_authors(raw):
     parts = [a.strip() for a in re.split(r"\s+and\s+", raw, flags=re.IGNORECASE)]
     out = []
     for part in parts:
+        if part.strip().lower() == "others":
+            out.append("co-authors")
+            continue
         if "," in part:
             last, first = part.split(",", 1)
             last, first = last.strip(), first.strip()
         else:
             tokens = part.split()
             last, first = tokens[-1], " ".join(tokens[:-1])
-        name = f"{_clean(last)}, {_initials(first)}"
+        name = f"{_clean(last)}, {_initials(first)}" if first else _clean(last)
         if HIGHLIGHT_NAME in last:
             name = f"**{name}**"
         out.append(name)
