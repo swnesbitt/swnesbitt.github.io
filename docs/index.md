@@ -8,6 +8,8 @@
 
 <div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 
+<div style="clear:both;"></div>
+
 ---
 
 ## About
