@@ -23,7 +23,7 @@
 | Itinderjot Singh | Postdoctoral Fellow, Colorado State University |
 | Maite Cancelada | Assistant Professor, Universidad de Buenos Aires |
 | Randy Chase | Scientist, Tomorrow.io |
-| Jake Mulholland | Professor, University at Albany |
+| Jake Mulholland | Assistant Professor, University at Albany |
 | Daniel Harnos | NOAA Climate Prediction Center |
 | Kirstin Gleicher/Harnos | NOAA Weather Prediction Center |
 | Nicole Schiffer/Gaynor | Quality Assurance Specialist, GAMA-1 Technologies |
