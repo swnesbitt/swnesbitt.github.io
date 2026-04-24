@@ -26,6 +26,7 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 - **Terrain–Precipitation Coupling** — Orographic effects on convection and precipitation in complex terrain environments.
 - **Cloud Microphysics & Snowfall** — Particle size distributions, lake-effect snow, and radar microphysical retrievals.
 - **Urban Hydrometeorology** — Urban effects on precipitation and flooding.
+- **Data Science & Machine Learning** — Neural network retrievals, AI-enabled urban climate modeling, radar echo classification, and Python-based open-source tools for weather and climate data analytics.
 
 ---
 

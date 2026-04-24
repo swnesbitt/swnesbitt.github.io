@@ -7,6 +7,7 @@
 | Role | Period |
 |------|--------|
 | Head, Department of Climate, Meteorology & Atmospheric Sciences, University of Illinois Urbana-Champaign | 2023–present |
+| Director, Weather and Climate Risk and Data Analytics Program, UIUC | 2023–present |
 | Associate Head; Director of Graduate Studies, Dept. of Atmospheric Sciences, UIUC | 2021–2023 |
 | Fellow, Big Ten Academic Alliance Department Executive Officer Program | 2025–2026 |
 | Faculty Senate Departmental Representative | 2019–2021 |
@@ -15,6 +16,9 @@
 
 ## University and Departmental Service
 
+- Developer, new undergraduate major in Weather and Climate Data Science, 2023–present
+- Developer, new graduate and undergraduate certificate programs in Weather and Climate Data Science, 2023–present
+- Instructor, ATMS 523 Weather and Climate Data Analytics, 2023–present
 - Member, Department Graduate Affairs Committee, 2007–2009, 2013–2014
 - Chair, Department Curriculum Committee, 2012–2015
 - Member, Department Curriculum Committee, 2007–2009, 2015–2018, 2019–present
@@ -46,7 +50,8 @@
 | Chair, AMS Scientific and Technical Advisory Committee on Radar Meteorology | 2013–2016 |
 | Member, AMS Scientific and Technical Advisory Committee on Radar Meteorology | 2007–2013 |
 | Science Community Committee, NASA ACCP Designated Observable Study | 2018–2021 |
-| Member, Committee to Revise the AMS Statement on the Undergraduate Curriculum | 2022–2023 |
+| Member, AMS Publications Commission | 2024–present |
+| Member, AMS Committee on the Undergraduate Curriculum | 2022–2023 |
 | Member, National Academy of Sciences Committee on Progress and Priorities of U.S. Weather Research | 2009 |
 
 ### Review Panels (Selected)
