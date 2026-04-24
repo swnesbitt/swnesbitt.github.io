@@ -30,9 +30,9 @@ theme:
   font:
     text: Radley
     code: Source Code Pro
-  favicon: images/earth.svg
+  favicon: images/storm.svg
   icon:
-    logo: material/earth
+    logo: material/weather-lightning
 
 hooks:
   - hooks/bib_hook.py
