@@ -7,7 +7,7 @@
 | Role | Period |
 |------|--------|
 | Head, Department of Climate, Meteorology & Atmospheric Sciences, University of Illinois Urbana-Champaign | 2023–present |
-| Director, Weather and Climate Risk and Data Analytics Program, UIUC | 2023–present |
+| Committee to develop Weather and Climate Risk and Data Analytics online MS and Certificate Programs, UIUC | 2023–present |
 | Associate Head; Director of Graduate Studies, Dept. of Atmospheric Sciences, UIUC | 2021–2023 |
 | Fellow, Big Ten Academic Alliance Department Executive Officer Program | 2025–2026 |
 | Faculty Senate Departmental Representative | 2019–2021 |
