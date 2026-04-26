@@ -109,6 +109,10 @@ Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WI
 
 ### Media interviews
 
+Selected interviews:
+
+- *Business Insider* (December 2016) — [On the value of NASA Earth science and the #ThanksNASA campaign](https://www.businessinsider.com/trump-nasa-earth-science-thanksnasa-2016-12)
+
 A complete list of print, broadcast, and online interviews — including coverage from national and international outlets — is maintained in the [Full CV](https://uofi.box.com/s/2j7gmjdkrnti84ne8291359j0hwjrgsz).
 
 </div>
