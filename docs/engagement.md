@@ -39,7 +39,7 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 
 ### In the news (RELAMPAGO-CACTI)
 
-- *The New York Times Magazine* (July 22, 2020) — [What's Going on Inside the Fearsome Thunderstorms of Córdoba Province?](https://longform.org/posts/what-s-going-on-inside-the-fearsome-thunderstorms-of-cordoba-province) by Noah Gallagher Shannon (winner of the 2021 AAAS Kavli Science Journalism Award)
+- *The New York Times Magazine* (July 22, 2020) — [What's Going on Inside the Fearsome Thunderstorms of Córdoba Province?](https://www.nytimes.com/interactive/2020/07/22/magazine/worst-storms-argentina.html) by Noah Gallagher Shannon (winner of the 2021 AAAS Kavli Science Journalism Award)
 - *The Verge* (September 5, 2019) — [Storm chasers are searching the clouds for the key to climate change](https://www.theverge.com/c/2019/9/5/20699849/climate-change-cloud-storm-chasers-argentina-floods-heat-planet)
 - *Nature* (November 2018) — [Argentina's mega-storms attract army of meteorologists](https://www.nature.com/articles/d41586-018-07268-2)
 - *NCAR & UCAR News* — [Field campaign to study extreme storms in Argentina](https://news.ucar.edu/132630/field-campaign-study-extreme-storms-argentina)
@@ -108,10 +108,6 @@ In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcent
 Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. on WILL-AM 580) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
 
 ### Media interviews
-
-Selected interviews:
-
-- *Business Insider* (December 2016) — [On the value of NASA Earth science and the #ThanksNASA campaign](https://www.businessinsider.com/trump-nasa-earth-science-thanksnasa-2016-12)
 
 A complete list of print, broadcast, and online interviews — including coverage from national and international outlets — is maintained in the [Full CV](https://uofi.box.com/s/2j7gmjdkrnti84ne8291359j0hwjrgsz).
 
