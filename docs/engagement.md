@@ -6,7 +6,7 @@ Steve Nesbitt's engagement work spans education and outreach embedded in interna
 
 <div class="engagement-section" markdown="1">
 
-## Outreach in Field Campaigns
+## RELAMPAGO-CACTI
 
 <img src="../images/relampago-300x300.jpg" alt="RELAMPAGO-CACTI logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
