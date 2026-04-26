@@ -8,19 +8,19 @@ Steve Nesbitt's engagement work spans education and outreach embedded in interna
 
 ## Outreach in Field Campaigns
 
-<img src="images/relampago-300x300.jpg" alt="RELAMPAGO-CACTI logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
+<img src="../images/relampago-300x300.jpg" alt="RELAMPAGO-CACTI logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
 [RELAMPAGO-CACTI](https://relampago-cacti.org/) (2018–2019) was the largest international field campaign ever conducted in subtropical South America, deploying more than 100 scientists across seven agencies in the lee of the Andes in Argentina. Education and outreach were core campaign objectives from day one.
 
-<a href="https://www.youtube.com/watch?v=15jqCgZL2C8"><img src="images/relampago_outreach.jpg" alt="Education and Outreach During RELAMPAGO — NCAR video" class="campaign-photo"></a>
+<a href="https://www.youtube.com/watch?v=15jqCgZL2C8"><img src="../images/relampago_outreach.jpg" alt="Education and Outreach During RELAMPAGO — NCAR video" class="campaign-photo"></a>
 <p class="photo-credit">Watch <a href="https://www.youtube.com/watch?v=15jqCgZL2C8">NCAR&#124;UCAR Meet the Experts: Chasing Storms in Argentina</a>, and explore the <a href="https://ncar.ucar.edu/what-we-offer/education-outreach/public/ncar-explorer-series-field-campaigns/relampago">NCAR Explorer Series page on RELAMPAGO</a>.</p>
 
 During the campaign we held an **open house and school events that drew thousands of students and families** in Córdoba and Mendoza Provinces, bringing storm chasers, mobile radars, and weather balloons directly into Argentine communities.
 
-<img src="images/cordoba-talk.JPG" alt="Steve Nesbitt presenting at the Gobierno de la Provincia de Córdoba during RELAMPAGO" class="campaign-photo">
+<img src="../images/cordoba-talk.JPG" alt="Steve Nesbitt presenting at the Gobierno de la Provincia de Córdoba during RELAMPAGO" class="campaign-photo">
 <p class="photo-credit">Speaking at the Gobierno de la Provincia de Córdoba during RELAMPAGO outreach.</p>
 
-<img src="images/SCHOOLvisit2.JPG" alt="RELAMPAGO team at a school outreach event in Argentina" class="campaign-photo">
+<img src="../images/SCHOOLvisit2.JPG" alt="RELAMPAGO team at a school outreach event in Argentina" class="campaign-photo">
 <p class="photo-credit">RELAMPAGO team at a school outreach event in Argentina.</p>
 
 The campaign's education program and inclusion efforts are described in detail in:
@@ -37,7 +37,7 @@ Classroom visits, weather demonstrations, and career-day talks at:
 - Champaign, Urbana, and Mahomet public schools
 
 <div class="engagement-logo-row">
-  <a href="https://www.polariscca.org/"><img src="images/polaris.jpg" alt="Polaris Charter Academy"></a>
+  <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
 </div>
 
 ### Partnerships with tribal colleges and minority-serving institutions
@@ -50,10 +50,10 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 - [Northeastern Illinois University](https://www.neiu.edu/)
 
 <div class="engagement-logo-row">
-  <a href="https://www.fortlewis.edu/"><img src="images/Fort-Lewis-300x150.png" alt="Fort Lewis College"></a>
-  <a href="https://www.csu.edu/"><img src="images/Untitled-design-18-1.webp" alt="Chicago State University"></a>
-  <a href="https://www.uic.edu/"><img src="images/uic.png" alt="University of Illinois Chicago"></a>
-  <a href="https://www.neiu.edu/"><img src="images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
+  <a href="https://www.fortlewis.edu/"><img src="../images/Fort-Lewis-300x150.png" alt="Fort Lewis College"></a>
+  <a href="https://www.csu.edu/"><img src="../images/Untitled-design-18-1.webp" alt="Chicago State University"></a>
+  <a href="https://www.uic.edu/"><img src="../images/uic.png" alt="University of Illinois Chicago"></a>
+  <a href="https://www.neiu.edu/"><img src="../images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
 </div>
 
 ### In the news (RELAMPAGO-CACTI)
@@ -73,9 +73,9 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 
 ## Community Engagement (CROCUS)
 
-<img src="images/crocus.png" alt="CROCUS logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
+<img src="../images/crocus.png" alt="CROCUS logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
-<img src="images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago" class="campaign-photo">
+<img src="../images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago" class="campaign-photo">
 <p class="photo-credit">Credit: Argonne National Laboratory</p>
 
 [CROCUS](https://www.anl.gov/crocus) — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
@@ -83,8 +83,8 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 ### Spring 2025 Urban Flooding campaign
 
 <div class="engagement-logo-row">
-  <a href="https://www.puertoricanagendachicago.org/"><img src="images/pragenda.png" alt="The Puerto Rican Agenda of Chicago"></a>
-  <a href="https://www.greaterchathaminitiative.org/"><img src="images/gci.png" alt="Greater Chatham Initiative"></a>
+  <a href="https://www.puertoricanagendachicago.org/"><img src="../images/pragenda.png" alt="The Puerto Rican Agenda of Chicago"></a>
+  <a href="https://www.greaterchathaminitiative.org/"><img src="../images/gci.png" alt="Greater Chatham Initiative"></a>
 </div>
 
 In partnership with [The Puerto Rican Agenda of Chicago](https://www.puertoricanagendachicago.org/) (Humboldt Park) and the [Greater Chatham Initiative](https://www.greaterchathaminitiative.org/) (South Side), we:
@@ -96,8 +96,8 @@ In partnership with [The Puerto Rican Agenda of Chicago](https://www.puertorican
 ### 2024 Urban Canyons campaign
 
 <div class="engagement-logo-row">
-  <a href="https://www.garycomeryouthcenter.org/"><img src="images/comer.png" alt="Gary Comer Youth Center"></a>
-  <a href="https://www.blacksingreen.org/"><img src="images/big.jpg" alt="Blacks in Green"></a>
+  <a href="https://www.garycomeryouthcenter.org/"><img src="../images/comer.png" alt="Gary Comer Youth Center"></a>
+  <a href="https://www.blacksingreen.org/"><img src="../images/big.jpg" alt="Blacks in Green"></a>
 </div>
 
 In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcenter.org/) (Greater Grand Crossing) and [Blacks in Green](https://www.blacksingreen.org/), we:
@@ -140,7 +140,7 @@ In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcent
 
 ### Weather Realness (WILL)
 
-<a href="https://will.illinois.edu/weatherrealness"><img src="images/weather-realness-tagline_social_HD.jpg" alt="Weather Realness — Illinois Public Media" class="campaign-photo"></a>
+<a href="https://will.illinois.edu/weatherrealness"><img src="../images/weather-realness-tagline_social_HD.jpg" alt="Weather Realness — Illinois Public Media" class="campaign-photo"></a>
 
 Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. on WILL-AM 580) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
 
