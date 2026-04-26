@@ -279,44 +279,50 @@
 }
 
 /* ── Engagement page: floating photo box (image + caption, text wraps) ── */
-.engagement-photo {
-  float: left;
-  width: 18%;
-  min-width: 130px;
-  max-width: 170px;
-  margin: 0.4rem 1.25rem 0.75rem 0;
-  padding: 0.5rem;
-  background: #fff;
-  border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+.md-typeset .engagement-photo {
+  float: left !important;
+  width: 18% !important;
+  min-width: 130px !important;
+  max-width: 170px !important;
+  margin: 0.5rem 1.5rem 1rem 0 !important;
+  padding: 0.85rem !important;
+  background: #fff !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+  text-align: center !important;
 }
 
-.engagement-photo--logo {
-  max-width: 120px;
-  min-width: 90px;
-  width: 12%;
+.md-typeset .engagement-photo--logo {
+  max-width: 100px !important;
+  min-width: 80px !important;
+  width: 10% !important;
+  padding: 0.6rem !important;
 }
 
-.engagement-photo img {
-  width: 100%;
-  border-radius: 4px;
-  display: block;
+.md-typeset .engagement-photo img,
+.md-typeset .engagement-photo a img {
+  width: 100% !important;
+  max-width: 100% !important;
+  border-radius: 4px !important;
+  display: block !important;
+  margin: 0 !important;
+  box-shadow: none !important;
 }
 
-.engagement-photo figcaption {
+.md-typeset .engagement-photo .engagement-photo-caption {
   font-size: 0.7rem;
   color: #555;
   line-height: 1.3;
-  margin-top: 0.4rem;
+  margin-top: 0.5rem;
   text-align: center;
 }
 
 @media screen and (max-width: 600px) {
-  .engagement-photo,
-  .engagement-photo--logo {
-    float: none;
-    margin: 1rem auto;
-    width: 70%;
-    max-width: 240px;
+  .md-typeset .engagement-photo,
+  .md-typeset .engagement-photo--logo {
+    float: none !important;
+    margin: 1rem auto !important;
+    width: 70% !important;
+    max-width: 240px !important;
   }
 }

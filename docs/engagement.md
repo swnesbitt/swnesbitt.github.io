@@ -6,64 +6,34 @@ Steve Nesbitt's engagement work spans education and outreach embedded in interna
 
 <div class="engagement-section" markdown="1">
 
-## Outreach in Field Campaigns
+## RELAMPAGO-CACTI
 
 <img src="../images/relampago-300x300.jpg" alt="RELAMPAGO-CACTI logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
 [RELAMPAGO-CACTI](https://relampago-cacti.org/) (2018–2019) was the largest international field campaign ever conducted in subtropical South America, deploying more than 100 scientists across seven agencies in the lee of the Andes in Argentina. Education and outreach were core campaign objectives from day one.
 
-<figure class="engagement-photo">
+<div class="engagement-photo" markdown="0">
   <a href="https://www.youtube.com/watch?v=15jqCgZL2C8"><img src="../images/relampago_outreach.jpg" alt="Education and Outreach During RELAMPAGO — NCAR video"></a>
-  <figcaption>Watch <a href="https://www.youtube.com/watch?v=15jqCgZL2C8">NCAR&#124;UCAR Meet the Experts: Chasing Storms in Argentina</a>, and explore the <a href="https://ncar.ucar.edu/what-we-offer/education-outreach/public/ncar-explorer-series-field-campaigns/relampago">NCAR Explorer Series page on RELAMPAGO</a>.</figcaption>
-</figure>
+  <div class="engagement-photo-caption">Watch <a href="https://www.youtube.com/watch?v=15jqCgZL2C8">NCAR&#124;UCAR Meet the Experts: Chasing Storms in Argentina</a>, and explore the <a href="https://ncar.ucar.edu/what-we-offer/education-outreach/public/ncar-explorer-series-field-campaigns/relampago">NCAR Explorer Series page on RELAMPAGO</a>.</div>
+</div>
 
 During the campaign we held an **open house and school events that drew thousands of students and families** in Córdoba and Mendoza Provinces, bringing storm chasers, mobile radars, and weather balloons directly into Argentine communities.
 
-<figure class="engagement-photo">
+<div class="engagement-photo" markdown="0">
   <img src="../images/cordoba-talk.JPG" alt="Steve Nesbitt presenting at the Gobierno de la Provincia de Córdoba during RELAMPAGO">
-  <figcaption>Speaking at the Gobierno de la Provincia de Córdoba during RELAMPAGO outreach.</figcaption>
-</figure>
+  <div class="engagement-photo-caption">Speaking at the Gobierno de la Provincia de Córdoba during RELAMPAGO outreach.</div>
+</div>
 
-<figure class="engagement-photo">
+<div class="engagement-photo" markdown="0">
   <img src="../images/SCHOOLvisit2.JPG" alt="RELAMPAGO team at a school outreach event in Argentina">
-  <figcaption>RELAMPAGO team at a school outreach event in Argentina.</figcaption>
-</figure>
+  <div class="engagement-photo-caption">RELAMPAGO team at a school outreach event in Argentina.</div>
+</div>
 
 The campaign's education program and inclusion efforts are described in detail in:
 
 - Nesbitt, S. W., P. V. Salio, and others, 2021: A storm safari in Argentina, Proyecto RELAMPAGO. *Bulletin of the American Meteorological Society*. [doi:10.1175/BAMS-D-20-0029.1](https://doi.org/10.1175/BAMS-D-20-0029.1)
 - Rasmussen, K. R., M. A. Burt, A. Rowe, and others, 2021: Enlightenment strikes! Broadening graduate school training through field campaign participation. *Bulletin of the American Meteorological Society*. [doi:10.1175/BAMS-D-20-0062.1](https://doi.org/10.1175/BAMS-D-20-0062.1)
 - Fisher, E. V., B. Bloodhart, K. Rasmussen, and others, 2021: Leveraging field-campaign networks to identify sexual harassment in atmospheric science — a study informing safe and inclusive field campaigns. *Bulletin of the American Meteorological Society*. [doi:10.1175/BAMS-D-19-0341.1](https://doi.org/10.1175/BAMS-D-19-0341.1)
-
-### K–12 school visits in Illinois
-
-Classroom visits, weather demonstrations, and career-day talks at:
-
-- Polaris Charter Academy, Chicago
-- Champaign, Urbana, and Mahomet, Illinois public schools
-
-<div class="engagement-logo-row">
-  <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
-  <a href="https://www.champaignschools.org/"><img src="../images/unit4.png" alt="Champaign Unit 4 School District"></a>
-  <a href="https://usd116.org/"><img src="../images/urbana.jpg" alt="Urbana School District 116"></a>
-  <a href="https://www.mahometseymour.org/"><img src="../images/mahomet.png" alt="Mahomet-Seymour Schools"></a>
-</div>
-
-### Inclusion efforts with non research-intensive campuses
-
-Working with faculty and students from institutions historically under-represented in atmospheric sciences research,
-
-- [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
-- [Chicago State University](https://www.csu.edu/)
-- [University of Illinois Chicago](https://www.uic.edu/)
-- [Northeastern Illinois University](https://www.neiu.edu/)
-
-<div class="engagement-logo-row">
-  <a href="https://www.fortlewis.edu/"><img src="../images/Fort-Lewis-300x150.png" alt="Fort Lewis College"></a>
-  <a href="https://www.csu.edu/"><img src="../images/Untitled-design-18-1.webp" alt="Chicago State University"></a>
-  <a href="https://www.uic.edu/"><img src="../images/uic.png" alt="University of Illinois Chicago"></a>
-  <a href="https://www.neiu.edu/"><img src="../images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
-</div>
 
 ### In the news (RELAMPAGO-CACTI)
 
@@ -80,14 +50,14 @@ Working with faculty and students from institutions historically under-represent
 
 <div class="engagement-section" markdown="1">
 
-## Community Engagement (CROCUS)
+## CROCUS
 
 <img src="../images/crocus.png" alt="CROCUS logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
-<figure class="engagement-photo">
+<div class="engagement-photo" markdown="0">
   <img src="../images/gci_urbanflooding.PNG" alt="Community weather balloon launch with the Greater Chatham Initiative during a CROCUS outreach event">
-  <figcaption>CROCUS community outreach event at Greater Chatham Initiative</figcaption>
-</figure>
+  <div class="engagement-photo-caption">CROCUS community outreach event at Greater Chatham Initiative</div>
+</div>
 
 [CROCUS](https://www.anl.gov/crocus) — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
 
@@ -147,13 +117,55 @@ In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcent
 
 <div class="engagement-section" markdown="1">
 
+## Informal Education and Outreach in Schools
+
+Classroom visits, weather demonstrations, and career-day talks at:
+
+- Polaris Charter Academy, Chicago
+- Champaign, Urbana, and Mahomet, Illinois public schools
+
+<div class="engagement-logo-row">
+  <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
+  <a href="https://www.champaignschools.org/"><img src="../images/unit4.png" alt="Champaign Unit 4 School District"></a>
+  <a href="https://usd116.org/"><img src="../images/urbana.jpg" alt="Urbana School District 116"></a>
+  <a href="https://www.mahometseymour.org/"><img src="../images/mahomet.png" alt="Mahomet-Seymour Schools"></a>
+</div>
+
+</div>
+
+---
+
+<div class="engagement-section" markdown="1">
+
+## Field work inclusion efforts with non research-intensive campuses
+
+Working with faculty and students from institutions historically under-represented in atmospheric sciences field work, including:
+
+- [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
+- [Chicago State University](https://www.csu.edu/)
+- [University of Illinois Chicago](https://www.uic.edu/)
+- [Northeastern Illinois University](https://www.neiu.edu/)
+
+<div class="engagement-logo-row">
+  <a href="https://www.fortlewis.edu/"><img src="../images/Fort-Lewis-300x150.png" alt="Fort Lewis College"></a>
+  <a href="https://www.csu.edu/"><img src="../images/Untitled-design-18-1.webp" alt="Chicago State University"></a>
+  <a href="https://www.uic.edu/"><img src="../images/uic.png" alt="University of Illinois Chicago"></a>
+  <a href="https://www.neiu.edu/"><img src="../images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
+</div>
+
+</div>
+
+---
+
+<div class="engagement-section" markdown="1">
+
 ## Public Outreach
 
 ### Weather Realness (WILL)
 
-<figure class="engagement-photo engagement-photo--logo">
+<div class="engagement-photo engagement-photo--logo" markdown="0">
   <a href="https://will.illinois.edu/weatherrealness"><img src="../images/weather-realness-tagline_social_HD.jpg" alt="Weather Realness — Illinois Public Media"></a>
-</figure>
+</div>
 
 Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. on WILL-AM 580) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
 
