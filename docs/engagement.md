@@ -82,8 +82,8 @@ Working with faculty and students from institutions historically under-represent
 <img src="../images/crocus.png" alt="CROCUS logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
 <figure class="engagement-photo">
-  <img src="../images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago">
-  <figcaption>Credit: Argonne National Laboratory</figcaption>
+  <img src="../images/gci_urbanflooding.PNG" alt="Community weather balloon launch with the Greater Chatham Initiative during a CROCUS outreach event">
+  <figcaption>CROCUS community outreach event at Greater Chatham Initiative</figcaption>
 </figure>
 
 [CROCUS](https://www.anl.gov/crocus) — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
