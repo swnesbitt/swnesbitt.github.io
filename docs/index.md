@@ -24,7 +24,7 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 - **Convective Storms & Severe Weather** — Dynamics and structure of organized convective systems and their role in severe weather.
 - **Radar & Remote Sensing** — Polarimetric radar theory, retrieval algorithms, and open-source radar software.
 - **Terrain–Precipitation Coupling** — Orographic effects on convection and precipitation in complex terrain environments.
-- **Cloud Microphysics & Snowfall** — Particle size distributions, lake-effect snow, and radar microphysical retrievals.
+- **Cloud Microphysics & Snowfall** — Cloud microphysics for improved process understanding and remote sensing retrievals.
 - **Urban Hydrometeorology** — Urban effects on precipitation and flooding.
 - **Data Science & Machine Learning** — Neural network retrievals, AI-enabled urban climate modeling, radar echo classification, and Python-based open-source tools for weather and climate data analytics.
 
@@ -38,7 +38,7 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 Robert M. Rauber and Stephen W. Nesbitt  
 Wiley-Blackwell, 2018 · 488 pp.
 
-*Radar Meteorology: A First Course* is a graduate-level textbook designed for students encountering weather radar for the first time. It covers the physical principles of radar, signal processing, polarimetric observables, precipitation estimation, severe weather applications, and emerging radar technologies. The book is used in ATMS 410 (Radar Meteorology) at the University of Illinois and at universities worldwide.
+*Radar Meteorology: A First Course* is an undergraduate and graduate-level textbook designed for students encountering weather radar for the first time. It covers the physical principles of radar, signal processing, polarimetric observables, precipitation estimation, severe weather applications, and emerging radar technologies. The book is used in ATMS 410 (Radar Meteorology) at the University of Illinois and at universities worldwide. As of 2025, a Chinese translation is also available [大气科学前沿译丛：雷达气象学导论](https://qxcbs.com/article/23/2421.html).
 
 <div style="clear:both;"></div>
 
