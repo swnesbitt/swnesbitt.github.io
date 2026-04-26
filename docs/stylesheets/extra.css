@@ -249,3 +249,30 @@
     width: 30%;
   }
 }
+
+/* ── Engagement page: bordered segment ── */
+.engagement-section {
+  border: 2.5px solid var(--illinois-orange);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 3px 3px 10px rgba(255, 95, 5, 0.1);
+}
+
+.engagement-section > h2:first-child,
+.engagement-section > h3:first-child {
+  margin-top: 0;
+}
+
+.engagement-logo-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.engagement-logo-row img {
+  height: 3rem;
+  width: auto;
+}
