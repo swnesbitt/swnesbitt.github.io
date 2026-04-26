@@ -8,11 +8,11 @@ Steve Nesbitt's engagement work spans education and outreach embedded in interna
 
 ## Outreach in Field Campaigns
 
-<img src="images/relampago-logo.png" alt="RELAMPAGO logo" class="dept-icon-wide" style="height: 3.5rem; margin-bottom: 0.5rem;">
+<img src="https://www.eol.ucar.edu/sites/default/files/files_live/images/book/Earth%20Observing%20Laboratory/relampago-300x300.jpg?itok=9qtEi5rn" alt="RELAMPAGO logo" class="dept-icon-wide" style="height: 3.5rem; margin-bottom: 0.5rem;">
 
 [RELAMPAGO-CACTI](https://relampago-cacti.org/) (2018–2019) was the largest international field campaign ever conducted in subtropical South America, deploying more than 100 scientists across seven agencies in the lee of the Andes in Argentina. Education and outreach were core campaign objectives from day one.
 
-<a href="https://www.youtube.com/watch?v=15jqCgZL2C8"><img src="images/relampago-ncar-video.jpg" alt="NCAR video about RELAMPAGO" class="campaign-photo"></a>
+<a href="https://www.youtube.com/watch?v=15jqCgZL2C8"><img src="https://img.youtube.com/vi/15jqCgZL2C8/maxresdefault.jpg" alt="NCAR video about RELAMPAGO" class="campaign-photo"></a>
 <p class="photo-credit">Watch <a href="https://www.youtube.com/watch?v=15jqCgZL2C8">NCAR&#124;UCAR Meet the Experts: Chasing Storms in Argentina</a>, and explore the <a href="https://ncar.ucar.edu/what-we-offer/education-outreach/public/ncar-explorer-series-field-campaigns/relampago">NCAR Explorer Series page on RELAMPAGO</a>.</p>
 
 During the campaign we held an **open house and school events that drew thousands of students and families** in Córdoba and Mendoza Provinces, bringing storm chasers, mobile radars, and weather balloons directly into Argentine communities. The campaign's education program and inclusion efforts are described in detail in:
