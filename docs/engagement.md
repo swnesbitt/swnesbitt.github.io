@@ -10,10 +10,10 @@ Steve Nesbitt's engagement work spans education and outreach embedded in interna
 
 <img src="images/relampago-logo.png" alt="RELAMPAGO logo" class="dept-icon-wide" style="height: 3.5rem; margin-bottom: 0.5rem;">
 
-RELAMPAGO-CACTI (2018–2019) was the largest international field campaign ever conducted in subtropical South America, deploying more than 100 scientists across seven agencies in the lee of the Andes in Argentina. Education and outreach were core campaign objectives from day one.
+[RELAMPAGO-CACTI](https://relampago-cacti.org/) (2018–2019) was the largest international field campaign ever conducted in subtropical South America, deploying more than 100 scientists across seven agencies in the lee of the Andes in Argentina. Education and outreach were core campaign objectives from day one.
 
-<img src="images/relampago-ncar-video.jpg" alt="NCAR video about RELAMPAGO" class="campaign-photo">
-<p class="photo-credit">Watch the NCAR video series about RELAMPAGO. <!-- TODO: link to NCAR video page --></p>
+<a href="https://www.youtube.com/watch?v=15jqCgZL2C8"><img src="images/relampago-ncar-video.jpg" alt="NCAR video about RELAMPAGO" class="campaign-photo"></a>
+<p class="photo-credit">Watch <a href="https://www.youtube.com/watch?v=15jqCgZL2C8">NCAR&#124;UCAR Meet the Experts: Chasing Storms in Argentina</a>, and explore the <a href="https://ncar.ucar.edu/what-we-offer/education-outreach/public/ncar-explorer-series-field-campaigns/relampago">NCAR Explorer Series page on RELAMPAGO</a>.</p>
 
 During the campaign we held an **open house and school events that drew thousands of students and families** in Córdoba and Mendoza Provinces, bringing storm chasers, mobile radars, and weather balloons directly into Argentine communities. The campaign's education program and inclusion efforts are described in detail in:
 
@@ -39,10 +39,11 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 
 ### In the news (RELAMPAGO-CACTI)
 
-<!-- TODO: add real article URLs and dates -->
-- *The New York Times* — coverage of RELAMPAGO storm-chasing in Argentina
-- *The Verge* — feature on the campaign's record-breaking storms
-- *Nature* — news article on RELAMPAGO scientific findings
+- *The New York Times Magazine* (July 22, 2020) — [What's Going on Inside the Fearsome Thunderstorms of Córdoba Province?](https://longform.org/posts/what-s-going-on-inside-the-fearsome-thunderstorms-of-cordoba-province) by Noah Gallagher Shannon (winner of the 2021 AAAS Kavli Science Journalism Award)
+- *Nature* (November 2018) — [Argentina's mega-storms attract army of meteorologists](https://www.nature.com/articles/d41586-018-07268-2)
+- *NCAR & UCAR News* — [Field campaign to study extreme storms in Argentina](https://news.ucar.edu/132630/field-campaign-study-extreme-storms-argentina)
+- *DOE ARM* — [Chasing Down the Science of Thunderstorms](https://www.arm.gov/news/features/post/51960)
+- *DOE ARM* — [Storm Chasers, Knowledge Makers](https://www.arm.gov/news/facility/post/69725)
 
 </div>
 
@@ -55,11 +56,11 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 <img src="images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago" class="campaign-photo">
 <p class="photo-credit">Credit: Argonne National Laboratory</p>
 
-CROCUS — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
+[CROCUS](https://www.anl.gov/crocus) — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
 
 ### Spring 2025 Urban Flooding campaign
 
-In partnership with the **Puerto Rican Agenda** (Humboldt Park) and the **Greater Chatham Initiative** (South Side), we:
+In partnership with [The Puerto Rican Agenda of Chicago](https://www.puertoricanagendachicago.org/) (Humboldt Park) and the [Greater Chatham Initiative](https://www.greaterchathaminitiative.org/) (South Side), we:
 
 - Established new [CoCoRaHS](https://www.cocorahs.org/) precipitation-monitoring sites on Chicago's South Side
 - Held community flood-awareness events with residents most affected by urban flooding
@@ -67,7 +68,7 @@ In partnership with the **Puerto Rican Agenda** (Humboldt Park) and the **Greate
 
 ### 2024 Urban Canyons campaign
 
-In partnership with the **Gary Comer Youth Center** (Greater Grand Crossing) and **Blacks in Green**, we:
+In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcenter.org/) (Greater Grand Crossing) and [Blacks in Green](https://www.blacksingreen.org/), we:
 
 - Established urban-canyon measurement sites on Chicago's South Side
 - Hosted community engagement events bringing CROCUS instrumentation and scientists into the neighborhood
@@ -75,9 +76,23 @@ In partnership with the **Gary Comer Youth Center** (Greater Grand Crossing) and
 
 ### In the news (CROCUS)
 
-<!-- TODO: add real article URLs and dates -->
-- Coverage of the 2024 CROCUS Urban Canyons campaign
-- Coverage of the 2025 CROCUS Urban Flooding campaign
+**Urban Canyons (2024)**
+
+- *NBC Chicago* — [Research team seeks to determine how skyscrapers affect heat](https://www.nbcchicago.com/news/local/chicago-research-project-seeks-to-determine-how-skyscrapers-impact-heat/3513220/)
+- *FOX 32 Chicago* — [Can Chicago's skyline predict the weather? Argonne scientists investigate urban canyons](https://www.fox32chicago.com/news/chicago-skyline-predict-weather-argonne-urban-canyons)
+- *ABC7* — [New CROCUS project with Argonne National Lab studies how the Chicago skyline contributes to city heat islands](https://abc7ny.com/post/new-crocus-project-argonne-national-lab-studies-how-chicago-skyline-contributes-city-heat-islands/15138061/)
+- *Argonne National Laboratory* — [Snapshots of urban climate science](https://www.anl.gov/article/snapshots-of-urban-climate-science)
+- *UIC Today* — [UIC research empowers communities in the face of climate change](https://today.uic.edu/uic-research-works-with-and-empowers-communities-in-the-face-of-climate-change/)
+
+**Urban Flooding (2025)**
+
+- *WTTW* — [As Climate Change Impacts Weather, Project Aims to Reduce Flooding in Chatham Neighborhood](https://news.wttw.com/2024/10/16/climate-change-impacts-weather-project-aims-reduce-flooding-chatham-neighborhood)
+- *CBS Chicago* — [Argonne National Laboratory team to study causes of flooding in Chicago's Chatham neighborhood](https://www.cbsnews.com/chicago/news/argonne-national-laboratory-flooding-chicago-chatham-neighborhood/)
+- *Block Club Chicago* — ['Water On My Block' App Will Help Neighbors Combat Chatham's Flooding Crisis](https://blockclubchicago.org/2025/04/23/water-on-my-block-app-will-help-neighbors-combat-chathams-flooding-crisis/)
+- *University of Chicago News* — [UChicago students build app to tackle South Side flooding crises](https://news.uchicago.edu/story/uchicago-students-build-app-tackle-south-side-flooding-crises)
+- *WBEZ Chicago* — [Flooding in Chicago is getting worse. Here's why.](https://www.wbez.org/environment/2026/04/10/flooding-chicago-climate-change-deep-tunnel-mold-metropolitan-water-reclamation-district-soaked)
+- *Argonne National Laboratory* — [Chicago State University to serve as 'scientific supersite' to study climate change impact](https://www.anl.gov/article/chicago-state-university-to-serve-as-scientific-supersite-to-study-climate-change-impact)
+- *WTTW* — [Argonne Scientists Partner with Chicago Community Organizations to Track Climate Change Impacts](https://news.wttw.com/2023/06/21/argonne-scientists-partner-chicago-community-organizations-track-climate-change-impacts)
 
 </div>
 
@@ -87,11 +102,9 @@ In partnership with the **Gary Comer Youth Center** (Greater Grand Crossing) and
 
 ## Public Outreach
 
-### The Weather Realness Show (WILL)
+### Weather Realness (WILL)
 
-Co-host of *The Weather Realness Show* on WILL (Illinois Public Media), a recurring program demystifying weather, climate, and severe-weather preparedness for general audiences across central Illinois.
-
-<!-- TODO: link to the WILL show page once available -->
+Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. on WILL-AM 580) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
 
 ### Media interviews
 
