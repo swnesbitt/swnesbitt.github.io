@@ -70,9 +70,9 @@ Classroom visits, weather demonstrations, and career-day talks at:
 
 <div class="engagement-section" markdown="1">
 
-## Inclusion efforts with non research-intensive campuses
+## Field work inclusion efforts with non research-intensive campuses
 
-Working with faculty and students from institutions historically under-represented in atmospheric sciences research on field campaign implementation, including:
+Working with faculty and students from institutions historically under-represented in atmospheric sciences field work, including:
 
 - [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
 - [Chicago State University](https://www.csu.edu/)
