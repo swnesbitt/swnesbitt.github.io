@@ -77,6 +77,10 @@ In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcent
 
 ### In the news (CROCUS)
 
+**Project launch (2022)**
+
+- *Illinois LAS News* — [U. of I. to play key role in $25 million project to advance urban climate science](https://las.illinois.edu/news/2022-09-08/u-i-play-key-role-25-million-project-advance-urban-climate-science)
+
 **Urban Canyons (2024)**
 
 - *NBC Chicago* — [Research team seeks to determine how skyscrapers affect heat](https://www.nbcchicago.com/news/local/chicago-research-project-seeks-to-determine-how-skyscrapers-impact-heat/3513220/)
