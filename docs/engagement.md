@@ -44,6 +44,9 @@ Classroom visits, weather demonstrations, and career-day talks at:
 
 <div class="engagement-logo-row">
   <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
+  <img src="../images/unit4.png" alt="Champaign Unit 4 School District">
+  <img src="../images/urbana.jpg" alt="Urbana School District 116">
+  <img src="../images/mahomet.png" alt="Mahomet-Seymour Schools">
 </div>
 
 ### Inclusion efforts with non research-intensive campuses
