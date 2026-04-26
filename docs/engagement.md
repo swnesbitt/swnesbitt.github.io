@@ -50,49 +50,7 @@ The campaign's education program and inclusion efforts are described in detail i
 
 <div class="engagement-section" markdown="1">
 
-## Informal Education and Outreach in Schools
-
-Classroom visits, weather demonstrations, and career-day talks at:
-
-- Polaris Charter Academy, Chicago
-- Champaign, Urbana, and Mahomet, Illinois public schools
-
-<div class="engagement-logo-row">
-  <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
-  <a href="https://www.champaignschools.org/"><img src="../images/unit4.png" alt="Champaign Unit 4 School District"></a>
-  <a href="https://usd116.org/"><img src="../images/urbana.jpg" alt="Urbana School District 116"></a>
-  <a href="https://www.mahometseymour.org/"><img src="../images/mahomet.png" alt="Mahomet-Seymour Schools"></a>
-</div>
-
-</div>
-
----
-
-<div class="engagement-section" markdown="1">
-
-## Field work inclusion efforts with non research-intensive campuses
-
-Working with faculty and students from institutions historically under-represented in atmospheric sciences field work, including:
-
-- [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
-- [Chicago State University](https://www.csu.edu/)
-- [University of Illinois Chicago](https://www.uic.edu/)
-- [Northeastern Illinois University](https://www.neiu.edu/)
-
-<div class="engagement-logo-row">
-  <a href="https://www.fortlewis.edu/"><img src="../images/Fort-Lewis-300x150.png" alt="Fort Lewis College"></a>
-  <a href="https://www.csu.edu/"><img src="../images/Untitled-design-18-1.webp" alt="Chicago State University"></a>
-  <a href="https://www.uic.edu/"><img src="../images/uic.png" alt="University of Illinois Chicago"></a>
-  <a href="https://www.neiu.edu/"><img src="../images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
-</div>
-
-</div>
-
----
-
-<div class="engagement-section" markdown="1">
-
-## Community Engagement (CROCUS)
+## CROCUS
 
 <img src="../images/crocus.png" alt="CROCUS logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
@@ -152,6 +110,48 @@ In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcent
 - *WBEZ Chicago* — [Flooding in Chicago is getting worse. Here's why.](https://www.wbez.org/environment/2026/04/10/flooding-chicago-climate-change-deep-tunnel-mold-metropolitan-water-reclamation-district-soaked)
 - *Argonne National Laboratory* — [Chicago State University to serve as 'scientific supersite' to study climate change impact](https://www.anl.gov/article/chicago-state-university-to-serve-as-scientific-supersite-to-study-climate-change-impact)
 - *WTTW* — [Argonne Scientists Partner with Chicago Community Organizations to Track Climate Change Impacts](https://news.wttw.com/2023/06/21/argonne-scientists-partner-chicago-community-organizations-track-climate-change-impacts)
+
+</div>
+
+---
+
+<div class="engagement-section" markdown="1">
+
+## Informal Education and Outreach in Schools
+
+Classroom visits, weather demonstrations, and career-day talks at:
+
+- Polaris Charter Academy, Chicago
+- Champaign, Urbana, and Mahomet, Illinois public schools
+
+<div class="engagement-logo-row">
+  <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
+  <a href="https://www.champaignschools.org/"><img src="../images/unit4.png" alt="Champaign Unit 4 School District"></a>
+  <a href="https://usd116.org/"><img src="../images/urbana.jpg" alt="Urbana School District 116"></a>
+  <a href="https://www.mahometseymour.org/"><img src="../images/mahomet.png" alt="Mahomet-Seymour Schools"></a>
+</div>
+
+</div>
+
+---
+
+<div class="engagement-section" markdown="1">
+
+## Field work inclusion efforts with non research-intensive campuses
+
+Working with faculty and students from institutions historically under-represented in atmospheric sciences field work, including:
+
+- [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
+- [Chicago State University](https://www.csu.edu/)
+- [University of Illinois Chicago](https://www.uic.edu/)
+- [Northeastern Illinois University](https://www.neiu.edu/)
+
+<div class="engagement-logo-row">
+  <a href="https://www.fortlewis.edu/"><img src="../images/Fort-Lewis-300x150.png" alt="Fort Lewis College"></a>
+  <a href="https://www.csu.edu/"><img src="../images/Untitled-design-18-1.webp" alt="Chicago State University"></a>
+  <a href="https://www.uic.edu/"><img src="../images/uic.png" alt="University of Illinois Chicago"></a>
+  <a href="https://www.neiu.edu/"><img src="../images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
+</div>
 
 </div>
 
