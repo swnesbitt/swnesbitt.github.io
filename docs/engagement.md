@@ -151,7 +151,7 @@ In partnership with the [Gary Comer Youth Center](https://www.garycomeryouthcent
 
 ### Weather Realness (WILL)
 
-<figure class="engagement-photo">
+<figure class="engagement-photo engagement-photo--logo">
   <a href="https://will.illinois.edu/weatherrealness"><img src="../images/weather-realness-tagline_social_HD.jpg" alt="Weather Realness — Illinois Public Media"></a>
 </figure>
 
