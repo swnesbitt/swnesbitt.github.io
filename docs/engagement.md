@@ -42,7 +42,7 @@ Classroom visits, weather demonstrations, and career-day talks at:
 
 ### Partnerships with tribal colleges and minority-serving institutions
 
-Recruiting and mentoring undergraduates from institutions historically under-represented in atmospheric science, including:
+Working with faculty and students from institutions historically under-represented in atmospheric science, including:
 
 - [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
 - [Chicago State University](https://www.csu.edu/)
