@@ -44,11 +44,14 @@ Classroom visits, weather demonstrations, and career-day talks at:
 
 <div class="engagement-logo-row">
   <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
+  <a href="https://www.champaignschools.org/"><img src="../images/unit4.png" alt="Champaign Unit 4 School District"></a>
+  <a href="https://usd116.org/"><img src="../images/urbana.jpg" alt="Urbana School District 116"></a>
+  <a href="https://www.mahometseymour.org/"><img src="../images/mahomet.png" alt="Mahomet-Seymour Schools"></a>
 </div>
 
-### Partnerships with tribal colleges and minority-serving institutions
+### Inclusion efforts with non research-intensive campuses
 
-Working with faculty and students from institutions historically under-represented in atmospheric science, including:
+Working with faculty and students from institutions historically under-represented in atmospheric sciences research,
 
 - [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
 - [Chicago State University](https://www.csu.edu/)
@@ -82,8 +85,8 @@ Working with faculty and students from institutions historically under-represent
 <img src="../images/crocus.png" alt="CROCUS logo" class="dept-icon-wide" style="height: 5rem; margin-bottom: 0.5rem;">
 
 <figure class="engagement-photo">
-  <img src="../images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago">
-  <figcaption>Credit: Argonne National Laboratory</figcaption>
+  <img src="../images/gci_urbanflooding.PNG" alt="Community weather balloon launch with the Greater Chatham Initiative during a CROCUS outreach event">
+  <figcaption>CROCUS community outreach event at Greater Chatham Initiative</figcaption>
 </figure>
 
 [CROCUS](https://www.anl.gov/crocus) — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
