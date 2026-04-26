@@ -40,6 +40,7 @@ Recruiting and mentoring undergraduates from institutions historically under-rep
 ### In the news (RELAMPAGO-CACTI)
 
 - *The New York Times Magazine* (July 22, 2020) — [What's Going on Inside the Fearsome Thunderstorms of Córdoba Province?](https://longform.org/posts/what-s-going-on-inside-the-fearsome-thunderstorms-of-cordoba-province) by Noah Gallagher Shannon (winner of the 2021 AAAS Kavli Science Journalism Award)
+- *The Verge* (September 5, 2019) — [Feature on RELAMPAGO storm chasers in Argentina and a changing climate](https://www.theverge.com/c/2019/9/5/20699849/climate-change-cloud-storm-chasers-argentina-floods-heat-planet)
 - *Nature* (November 2018) — [Argentina's mega-storms attract army of meteorologists](https://www.nature.com/articles/d41586-018-07268-2)
 - *NCAR & UCAR News* — [Field campaign to study extreme storms in Argentina](https://news.ucar.edu/132630/field-campaign-study-extreme-storms-argentina)
 - *DOE ARM* — [Chasing Down the Science of Thunderstorms](https://www.arm.gov/news/features/post/51960)
