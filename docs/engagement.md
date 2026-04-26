@@ -46,9 +46,9 @@ Classroom visits, weather demonstrations, and career-day talks at:
   <a href="https://www.polariscca.org/"><img src="../images/polaris.jpg" alt="Polaris Charter Academy"></a>
 </div>
 
-### Partnerships with tribal colleges and minority-serving institutions
+### Inclusion efforts with non research-intensive campuses
 
-Working with faculty and students from institutions historically under-represented in atmospheric science, including:
+Working with faculty and students from institutions historically under-represented in atmospheric sciences research,
 
 - [Fort Lewis College](https://www.fortlewis.edu/), Durango, Colorado — a Native American-Serving Non-Tribal Institution
 - [Chicago State University](https://www.csu.edu/)
