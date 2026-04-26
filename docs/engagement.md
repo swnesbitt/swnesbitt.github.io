@@ -61,6 +61,7 @@ The campaign's education program and inclusion efforts are described in detail i
 
 [CROCUS](https://www.anl.gov/crocus) — the Community Research on Climate and Urban Science Urban Integrated Field Laboratory — was **co-designed with Chicago community groups** from its inception. Community partners help set research priorities, identify measurement sites, and shape how findings are communicated back to the neighborhoods where the work takes place.
 
+<div style="clear:both; margin-top:1.5rem;"></div>
 
 ### Spring 2025 Urban Flooding campaign
 
