@@ -35,7 +35,22 @@ The campaign's education program and inclusion efforts are described in detail i
 - Rasmussen, K. R., M. A. Burt, A. Rowe, and others, 2021: Enlightenment strikes! Broadening graduate school training through field campaign participation. *Bulletin of the American Meteorological Society*. [doi:10.1175/BAMS-D-20-0062.1](https://doi.org/10.1175/BAMS-D-20-0062.1)
 - Fisher, E. V., B. Bloodhart, K. Rasmussen, and others, 2021: Leveraging field-campaign networks to identify sexual harassment in atmospheric science — a study informing safe and inclusive field campaigns. *Bulletin of the American Meteorological Society*. [doi:10.1175/BAMS-D-19-0341.1](https://doi.org/10.1175/BAMS-D-19-0341.1)
 
-### K–12 school visits in Illinois
+### In the news (RELAMPAGO-CACTI)
+
+- *The New York Times Magazine* (July 22, 2020) — [What's Going on Inside the Fearsome Thunderstorms of Córdoba Province?](https://www.nytimes.com/interactive/2020/07/22/magazine/worst-storms-argentina.html) by Noah Gallagher Shannon (winner of the 2021 AAAS Kavli Science Journalism Award)
+- *The Verge* (September 5, 2019) — [Storm chasers are searching the clouds for the key to climate change](https://www.theverge.com/c/2019/9/5/20699849/climate-change-cloud-storm-chasers-argentina-floods-heat-planet)
+- *Nature* (November 2018) — [Argentina's mega-storms attract army of meteorologists](https://www.nature.com/articles/d41586-018-07268-2)
+- *NCAR & UCAR News* — [Field campaign to study extreme storms in Argentina](https://news.ucar.edu/132630/field-campaign-study-extreme-storms-argentina)
+- *DOE ARM* — [Chasing Down the Science of Thunderstorms](https://www.arm.gov/news/features/post/51960)
+- *DOE ARM* — [Storm Chasers, Knowledge Makers](https://www.arm.gov/news/facility/post/69725)
+
+</div>
+
+---
+
+<div class="engagement-section" markdown="1">
+
+## Informal Education and Outreach in Schools
 
 Classroom visits, weather demonstrations, and career-day talks at:
 
@@ -49,7 +64,13 @@ Classroom visits, weather demonstrations, and career-day talks at:
   <a href="https://www.mahometseymour.org/"><img src="../images/mahomet.png" alt="Mahomet-Seymour Schools"></a>
 </div>
 
-### Inclusion efforts with non research-intensive campuses
+</div>
+
+---
+
+<div class="engagement-section" markdown="1">
+
+## Inclusion efforts with non research-intensive campuses
 
 Working with faculty and students from institutions historically under-represented in atmospheric sciences research on field campaign implementation, including:
 
@@ -64,15 +85,6 @@ Working with faculty and students from institutions historically under-represent
   <a href="https://www.uic.edu/"><img src="../images/uic.png" alt="University of Illinois Chicago"></a>
   <a href="https://www.neiu.edu/"><img src="../images/NEIU-Logo-White-Background.webp" alt="Northeastern Illinois University"></a>
 </div>
-
-### In the news (RELAMPAGO-CACTI)
-
-- *The New York Times Magazine* (July 22, 2020) — [What's Going on Inside the Fearsome Thunderstorms of Córdoba Province?](https://www.nytimes.com/interactive/2020/07/22/magazine/worst-storms-argentina.html) by Noah Gallagher Shannon (winner of the 2021 AAAS Kavli Science Journalism Award)
-- *The Verge* (September 5, 2019) — [Storm chasers are searching the clouds for the key to climate change](https://www.theverge.com/c/2019/9/5/20699849/climate-change-cloud-storm-chasers-argentina-floods-heat-planet)
-- *Nature* (November 2018) — [Argentina's mega-storms attract army of meteorologists](https://www.nature.com/articles/d41586-018-07268-2)
-- *NCAR & UCAR News* — [Field campaign to study extreme storms in Argentina](https://news.ucar.edu/132630/field-campaign-study-extreme-storms-argentina)
-- *DOE ARM* — [Chasing Down the Science of Thunderstorms](https://www.arm.gov/news/features/post/51960)
-- *DOE ARM* — [Storm Chasers, Knowledge Makers](https://www.arm.gov/news/facility/post/69725)
 
 </div>
 
