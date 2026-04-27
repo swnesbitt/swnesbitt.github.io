@@ -18,14 +18,23 @@ Steve Nesbitt has participated in 27 major field campaigns spanning 1998–2025,
 
 Lead Principal Investigator of a $25M+ joint NSF/DOE/NASA/NOAA initiative deploying over 100 scientists across 7 agencies in Argentina. RELAMPAGO-CACTI studied extreme convective storms, orographic convection, and cloud microphysics in the lee of the Andes — one of the world's most prolific regions for deep convection.
 
-### CROCUS — Urban Climate Initiatives (2024–2025)
+### CROCUS Urban Canyons (2024)
 **Community Research on Climate and Urban Science**  
 *Chicago, IL*
 
 <img src="../images/crocus.jpg" alt="CROCUS urban climate instrumentation in Chicago" class="campaign-photo">
 <p class="photo-credit">Credit: Argonne National Laboratory</p>
 
-Principal Investigator. DOE-funded study of urban effects on precipitation, flooding, and the local water cycle in the greater Chicago metropolitan area.
+Co-Principal Investigator. Two-week intensive operating period (July 15–29, 2024) measuring how Chicago's built environment — the urban "canyons" formed by streets between tall buildings — modifies local temperature, wind, atmospheric composition, and storm dynamics. Sites were established with community partners on the South Side, including the [Gary Comer Youth Center](https://www.garycomeryouthcenter.org/) and [Blacks in Green](https://www.blacksingreen.org/), and supported public engagement events bringing CROCUS instrumentation and scientists into the neighborhood.
+
+### CROCUS Urban Flooding (2025)
+**Community Research on Climate and Urban Science**  
+*Chicago, IL*
+
+<img src="../images/gci_urbanflooding.PNG" alt="Community weather balloon launch with the Greater Chatham Initiative during a CROCUS outreach event" class="campaign-photo">
+<p class="photo-credit">CROCUS community outreach event at Greater Chatham Initiative.</p>
+
+Co-Principal Investigator. Spring 2025 rain-season campaign focused on Chatham, Greater Grand Crossing, and other South Side neighborhoods that experience the highest rates of basement flooding in Chicagoland. Established new [CoCoRaHS](https://www.cocorahs.org/) precipitation-monitoring sites, supported community flood-awareness events, and contributed to the launch of the [Water On My Block](https://blockclubchicago.org/2025/04/23/water-on-my-block-app-will-help-neighbors-combat-chathams-flooding-crisis/) reporting tool. Co-designed with the [Greater Chatham Initiative](https://www.greaterchathaminitiative.org/) and [The Puerto Rican Agenda of Chicago](https://www.puertoricanagendachicago.org/).
 
 ### Lake Effect Snow Microphysics (2022–2024)
 *Buffalo, NY*
