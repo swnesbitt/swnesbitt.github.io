@@ -57,10 +57,12 @@ NASA field campaign studying aerosol-cloud-precipitation interactions in the mar
 | Campaign | Years | Location | Role |
 |----------|-------|----------|------|
 | [OLYMPEX](https://gpm.nasa.gov/science/ground-validation/field-campaigns/OLYMPEX) — Olympic Mountain Experiment | 2015 | Olympic Peninsula, WA | Co-I, NASA GPM Ground Validation |
-| [NSF OPEL-WG](https://www.nsf.gov) — Orographic Precipitation & Extremes, Western Ghats | 2008–2011 | Karnataka, India | Principal Investigator |
+| [IPHEx](https://gpm.nasa.gov/science/ground-validation/field-campaigns/IPHEX) — Integrated Precipitation and Hydrology Experiment | 2014 | Southern Appalachians, NC | Co-I, NASA GPM Ground Validation |
 | [GCPEX](https://gpm.nasa.gov/science/ground-validation/field-campaigns/gcpex) — GPM Cold-season Precipitation Experiment | 2011–2012 | Ontario, Canada | Co-I, NASA GPM Ground Validation |
+| [MC3E](https://www.arm.gov/research/campaigns/sgp2011midlatcloud) — Midlatitude Continental Convective Clouds Experiment | 2011 | Lamont, OK | Scientist, NASA GPM / DOE ARM |
+| [Western Ghats Orographic Precipitation Study](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0844162) (NSF) | 2008–2011 | Karnataka, India | Principal Investigator |
 | Various NASA/NSF field missions | 2004–2007 | Global | Scientist / Co-I |
 | TRMM-related campaigns | 2000–2004 | Various tropical sites | Scientist |
 | [KWAJEX](https://ghrc.nsstc.nasa.gov/home/field-campaigns/kwajex) — Kwajalein Experiment | 1999 | Kwajalein Atoll, Marshall Islands | Scientist |
 | [CAMEX-3](https://ghrc.nsstc.nasa.gov/home/field-campaigns/camex-3) — Convection And Moisture Experiment | 1998 | Florida / Caribbean | Aircraft Scientist |
-| TEFLUN-A — Texas-Florida Underflight | 1998 | Texas | Radiosonde Scientist |
+| [TEFLUN-A](https://espo.nasa.gov/teflun) — Texas–Florida Underflight | 1998 | Texas | Radiosonde Scientist |
