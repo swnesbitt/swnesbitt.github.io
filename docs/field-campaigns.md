@@ -3,7 +3,7 @@
 <img src="../images/field_campaign_montage.png" alt="Montage of field-campaign photos spanning Steve Nesbitt's career" class="campaign-photo">
 <p class="photo-credit">Field-campaign moments from 1998 onward.</p>
 
-Steve Nesbitt has participated in 27 major field campaigns spanning 1998–2025, spanning roles from radiosonde scientist and aircraft scientist to principal investigator of large multi-agency international deployments.
+Steve Nesbitt has participated in 26 major field campaigns spanning 1998–2025, spanning roles from radiosonde scientist and aircraft scientist to principal investigator of large multi-agency international deployments.
 
 ---
 
@@ -72,7 +72,6 @@ NASA field campaign studying aerosol-cloud-precipitation interactions in the mar
 | DOE CROCUS Urban Canyons ([CROCUS](https://www.anl.gov/crocus)) | 2024 | Chicago, IL | Co-Principal Investigator |
 | NSF PERiLS — Propagation, Evolution, and Rotation in Linear Storms | 2022–2023 | Southeast USA | Co-Principal Investigator |
 | NOAA Observations: Lake Effect Snow Microphysics | 2022–2024 | Buffalo, NY | Co-Principal Investigator |
-| [DOE-NASA TRACER](https://arm.gov/research/campaigns/amf2021tracer) — Tracking Aerosol Convection Interactions Experiment | 2021 | Houston, TX | Radar Scientist |
 | NASA CAMP²Ex — Cloud, Aerosol and Monsoon Processes Philippines Experiment | 2019 | Philippines | Mission Scientist |
 | [NSF RELAMPAGO](https://relampago-cacti.org/) — Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations | 2018–2019 | Córdoba and Mendoza Provinces, Argentina | Principal Investigator |
 | [DOE CACTI](https://www.arm.gov/research/campaigns/amf2018cacti) — Cloud, Aerosol, and Complex Terrain Interactions | 2018–2019 | Sierras de Córdoba, Argentina | Science Steering Group |
