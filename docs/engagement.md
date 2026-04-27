@@ -169,7 +169,7 @@ Working with faculty and students from institutions historically under-represent
   <a href="https://will.illinois.edu/weatherrealness"><img src="../images/weather-realness-tagline_social_HD.jpg" alt="Weather Realness — Illinois Public Media"></a>
 </div>
 
-Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. on WILL-AM 580) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
+Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. and Sundays at 8:00 p.m. on WILL-AM 580, and is also available via [streaming](https://will.illinois.edu/weatherrealness)) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
 
 ### Media interviews
 
