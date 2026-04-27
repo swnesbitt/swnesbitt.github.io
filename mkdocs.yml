@@ -28,7 +28,7 @@ theme:
     - search.suggest
     - search.highlight
   font:
-    text: Radley
+    text: Tiro Bangla
     code: Source Code Pro
   favicon: images/storm.svg
   icon:
