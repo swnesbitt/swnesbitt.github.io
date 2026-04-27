@@ -1,5 +1,8 @@
 # Field Campaigns
 
+<img src="../images/field_campaign_montage.png" alt="Montage of field-campaign photos spanning Steve Nesbitt's career" class="campaign-photo">
+<p class="photo-credit">Field-campaign moments from 1998 onward.</p>
+
 Steve Nesbitt has participated in 27 major field campaigns spanning 1998–2025, spanning roles from radiosonde scientist and aircraft scientist to principal investigator of large multi-agency international deployments.
 
 ---
@@ -52,17 +55,34 @@ NASA field campaign studying aerosol-cloud-precipitation interactions in the mar
 
 ---
 
-## Earlier Campaigns (up to 2015)
+## All field campaigns (1998–2025)
 
-| Campaign | Years | Location | Role |
-|----------|-------|----------|------|
-| [OLYMPEX](https://gpm.nasa.gov/science/ground-validation/field-campaigns/OLYMPEX) — Olympic Mountain Experiment | 2015 | Olympic Peninsula, WA | Co-I, NASA GPM Ground Validation |
-| [IPHEx](https://gpm.nasa.gov/science/ground-validation/field-campaigns/IPHEX) — Integrated Precipitation and Hydrology Experiment | 2014 | Southern Appalachians, NC | Co-I, NASA GPM Ground Validation |
-| [GCPEX](https://gpm.nasa.gov/science/ground-validation/field-campaigns/gcpex) — GPM Cold-season Precipitation Experiment | 2011–2012 | Ontario, Canada | Co-I, NASA GPM Ground Validation |
-| [MC3E](https://www.arm.gov/research/campaigns/sgp2011midlatcloud) — Midlatitude Continental Convective Clouds Experiment | 2011 | Lamont, OK | Scientist, NASA GPM / DOE ARM |
-| [Western Ghats Orographic Precipitation Study](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0844162) (NSF) | 2008–2011 | Karnataka, India | Principal Investigator |
-| Various NASA/NSF field missions | 2004–2007 | Global | Scientist / Co-I |
-| TRMM-related campaigns | 2000–2004 | Various tropical sites | Scientist |
-| [KWAJEX](https://ghrc.nsstc.nasa.gov/home/field-campaigns/kwajex) — Kwajalein Experiment | 1999 | Kwajalein Atoll, Marshall Islands | Scientist |
-| [CAMEX-3](https://ghrc.nsstc.nasa.gov/home/field-campaigns/camex-3) — Convection And Moisture Experiment | 1998 | Florida / Caribbean | Aircraft Scientist |
-| [TEFLUN-A](https://espo.nasa.gov/teflun) — Texas–Florida Underflight | 1998 | Texas | Radiosonde Scientist |
+| Campaign | Year(s) | Location | Role |
+|----------|---------|----------|------|
+| DOE CROCUS Urban Flooding ([CROCUS](https://www.anl.gov/crocus)) | 2025 | Chicago, IL | Co-Principal Investigator |
+| DOE CROCUS Urban Canyons ([CROCUS](https://www.anl.gov/crocus)) | 2024 | Chicago, IL | Co-Principal Investigator |
+| NSF PERiLS — Propagation, Evolution, and Rotation in Linear Storms | 2022–2023 | Southeast USA | Co-Principal Investigator |
+| NOAA Observations: Lake Effect Snow Microphysics | 2022–2024 | Buffalo, NY | Co-Principal Investigator |
+| [DOE-NASA TRACER](https://arm.gov/research/campaigns/amf2021tracer) — Tracking Aerosol Convection Interactions Experiment | 2021 | Houston, TX | Radar Scientist |
+| NASA CAMP²Ex — Cloud, Aerosol and Monsoon Processes Philippines Experiment | 2019 | Philippines | Mission Scientist |
+| [NSF RELAMPAGO](https://relampago-cacti.org/) — Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations | 2018–2019 | Córdoba and Mendoza Provinces, Argentina | Principal Investigator |
+| [DOE CACTI](https://www.arm.gov/research/campaigns/amf2018cacti) — Cloud, Aerosol, and Complex Terrain Interactions | 2018–2019 | Sierras de Córdoba, Argentina | Science Steering Group |
+| NSF DOW educational radar deployment | 2016 | University of Illinois | — |
+| [NASA-NSF OLYMPEX](https://gpm.nasa.gov/science/ground-validation/field-campaigns/OLYMPEX) — Olympic Mountains Experiment | 2015 | Olympic Mountains, WA | Mission Scientist |
+| [NASA IPHEx](https://gpm.nasa.gov/science/ground-validation/field-campaigns/IPHEX) — Integrated Precipitation and Hydrology Experiment | 2014 | Asheville, NC | Mission Scientist |
+| CHUVA-SUL — Cloud processes of the main precipitation systems in Brazil | 2012 | Santa Maria, RS, Brazil | Science Investigator |
+| [NASA GCPEX](https://gpm.nasa.gov/science/ground-validation/field-campaigns/gcpex) — GPM Cold-season Precipitation Experiment | 2012 | CARE Site near Barre, Ontario, Canada | Mission Scientist |
+| NSF DOW educational radar deployment | 2012 | University of Illinois | — |
+| [NASA/DOE MC3E](https://www.arm.gov/research/campaigns/sgp2011midlatcloud) — Midlatitude Continental Convective Clouds Experiment | 2011 | SGP Site, Oklahoma | Mission Scientist, Forecast Operations |
+| [NASA GRIP](https://espo.nasa.gov/content/Genesis_and_Rapid_Intensification_Processes_GRIP) — Genesis and Rapid Intensification Processes | 2010 | Fort Lauderdale, FL | Forecast Operations |
+| NASA JEMEX | 2010 | Jemez Mountains, NM | Principal Investigator |
+| [NSF OPEL-WG](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0844162) — Western Ghats Orographic Precipitation Study | 2008–2011 | Karnataka, India | Principal Investigator |
+| NSF ISS educational radar deployment | 2008 | University of Illinois | — |
+| [NSF/NOAA NAME](https://www.eol.ucar.edu/field_projects/name) — North American Monsoon Experiment | 2004 | Northwest Mexico | Radar Scientist |
+| NASA Front Range Pilot Project | 2004 | Greeley, CO | Mission Scientist |
+| NSF MOPHREX | 2001 | Annapurna region, Nepal | Radiosonde Scientist |
+| [NSF IPEX](https://www.nssl.noaa.gov/projects/ipex/) — Intermountain Precipitation Experiment | 2000 | Wasatch Front, UT | Radiosonde Scientist |
+| DOE Peter Sinks Experiment | 1999 | Bear River Range, UT | Tethersonde Scientist |
+| [NASA KWAJEX](https://ghrc.nsstc.nasa.gov/home/field-campaigns/kwajex) — Kwajalein Experiment | 1999 | Kwajalein Atoll, Marshall Islands | Radar and Aircraft Scientist |
+| [NASA CAMEX-3](https://ghrc.nsstc.nasa.gov/home/field-campaigns/camex-3) — Convection And Moisture Experiment | 1998 | Cocoa Beach, FL | Aircraft Scientist |
+| [NASA TEFLUN-A](https://espo.nasa.gov/teflun) — Texas–Florida Underflight | 1998 | Southeast Texas | Radiosonde Scientist |
