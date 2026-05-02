@@ -28,7 +28,7 @@ theme:
     - search.suggest
     - search.highlight
   font:
-    text: Tiro Bangla
+    text: Lora
     code: Source Code Pro
   favicon: images/storm.svg
   icon:
