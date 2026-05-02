@@ -53,4 +53,4 @@ Science goals included:
 - Cloud microphysics and precipitation processes
 - Lightning and electrification in subtropical storms
 
-Total budget: **$25M+** across all partner agencies.
+RELAMPAGO-CACTI is the largest land-based field campaign conducted outside the US, with a total budget of **$25M+** across all partner agencies.
