@@ -22,7 +22,7 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 
 - **Global Precipitation Science** — Satellite and ground-based remote sensing of precipitation across the tropics and subtropics.
 - **Convective Storms & Severe Weather** — Dynamics and structure of organized convective systems and their role in severe weather.
-- **Radar & Remote Sensing** — Polarimetric radar theory, retrieval algorithms, and open-source radar software.
+- **Radar & Remote Sensing** — Polarimetric and multi-frequency radar, passive microwave, retrieval algorithms, and open-source radar software.
 - **Terrain–Precipitation Coupling** — Orographic effects on convection and precipitation in complex terrain environments.
 - **Cloud Microphysics & Snowfall** — Cloud microphysics for improved process understanding and remote sensing retrievals.
 - **Urban Hydrometeorology** — Urban effects on precipitation and flooding.
