@@ -64,6 +64,16 @@ Python tools to read and analyze data from Argentine weather radars, developed i
 
 ---
 
+## Atmospheric Dynamics
+
+### [updraft-forcing](https://huggingface.co/spaces/snesbitt/updraft-forcing)
+Interactive Hugging Face Space for exploring updraft forcing in deep convection.
+
+### [mountain-waves](https://huggingface.co/spaces/snesbitt/mountain-waves)
+Interactive Hugging Face Space for exploring mountain-wave dynamics.
+
+---
+
 ## Education & Computing
 
 ### [ams-2020-ml-python-course](https://github.com/swnesbitt/ams-2020-ml-python-course)
@@ -77,9 +87,3 @@ An MCP (Model Context Protocol) server for accessing ERA5 reanalysis data.
 
 ### [ipynbhpc](https://github.com/swnesbitt/ipynbhpc)
 Utilities for running Jupyter notebooks interactively on HPC (high-performance computing) systems.
-
-### [updraft-forcing](https://huggingface.co/spaces/snesbitt/updraft-forcing)
-Interactive Hugging Face Space for exploring updraft forcing in deep convection.
-
-### [mountain-waves](https://huggingface.co/spaces/snesbitt/mountain-waves)
-Interactive Hugging Face Space for exploring mountain-wave dynamics.
