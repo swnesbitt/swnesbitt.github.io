@@ -18,7 +18,7 @@
 
 ## About
 
-Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud dynamics and physics and high-impact weather.
+Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud dynamics and physics and high-impact weather, including as Lead Principal Investigator of [RELAMPAGO](relampago-wrf.md) and co-PI of [CACTI](relampago-wrf.md) (2018–2019), a joint NSF/DOE/NASA/NOAA campaign in Córdoba, Argentina, which is the largest land-based field campaign conducted outside the US.
 
 ---
 
@@ -26,7 +26,7 @@ Steve Nesbitt is a Professor and Department Head in the [Department of Climate, 
 
 - **Global Precipitation Science** — Satellite and ground-based remote sensing of precipitation across the tropics and subtropics.
 - **Convective Storms & Severe Weather** — Dynamics and structure of organized convective systems and their role in severe weather.
-- **Radar & Remote Sensing** — Polarimetric radar theory, retrieval algorithms, and open-source radar software.
+- **Radar & Remote Sensing** — Polarimetric and multi-frequency radar, passive microwave, retrieval algorithms, and open-source radar software.
 - **Terrain–Precipitation Coupling** — Orographic effects on convection and precipitation in complex terrain environments.
 - **Cloud Microphysics & Snowfall** — Cloud microphysics for improved process understanding and remote sensing retrievals.
 - **Urban Hydrometeorology** — Urban effects on precipitation and flooding.
