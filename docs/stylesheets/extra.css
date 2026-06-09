@@ -251,34 +251,40 @@
 }
 
 /* ── Profile row: photo + stacked titles column ── */
-.profile-row {
-  display: flex;
+.md-typeset .profile-row {
+  display: flex !important;
   align-items: flex-start;
   gap: 2rem;
   margin-bottom: 1.5rem;
 }
 
-.profile-row .profile-photo {
-  float: none;
-  flex: 0 0 auto;
-  margin: 0;
+.md-typeset .profile-row .profile-photo {
+  float: none !important;
+  flex: 0 0 27.3%;
+  width: 27.3%;
+  min-width: 80px;
+  margin: 0 !important;
 }
 
-.profile-titles {
-  flex: 1;
+.md-typeset .profile-titles {
+  flex: 1 1 auto;
   min-width: 0;
 }
 
-.profile-titles > p:first-child,
-.profile-titles > p:first-of-type {
+.md-typeset .profile-titles > p:first-child {
   margin-top: 0;
 }
 
 @media screen and (max-width: 600px) {
-  .profile-row {
+  .md-typeset .profile-row {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
+  }
+
+  .md-typeset .profile-row .profile-photo {
+    flex: 0 0 auto;
+    width: 50%;
   }
 }
 
