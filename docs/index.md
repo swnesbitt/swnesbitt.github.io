@@ -8,6 +8,10 @@
 
 <div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 
+**Associate Dean for Research** *(starting August 16, 2026)*
+
+<div class="affil-line"><span><a href="https://las.illinois.edu">College of Liberal Arts and Sciences</a>, University of Illinois Urbana-Champaign</span></div>
+
 <div style="clear:both;"></div>
 
 ---
