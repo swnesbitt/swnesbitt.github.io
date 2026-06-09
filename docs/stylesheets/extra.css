@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 /* ── Illinois color palette ── */
 :root {
@@ -131,7 +131,7 @@
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Merriweather', Georgia, serif;
   font-weight: 400;
 }
 

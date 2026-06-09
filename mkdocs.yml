@@ -28,7 +28,7 @@ theme:
     - search.suggest
     - search.highlight
   font:
-    text: Lora
+    text: Merriweather
     code: Source Code Pro
   favicon: images/storm.svg
   icon:
