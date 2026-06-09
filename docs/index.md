@@ -1,6 +1,10 @@
 # Steve Nesbitt
 
+<div class="profile-row" markdown="1">
+
 <img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
+
+<div class="profile-titles" markdown="1">
 
 **Professor & Department Head**
 
@@ -12,7 +16,9 @@
 
 <div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 
-<div style="clear:both;"></div>
+</div>
+
+</div>
 
 ---
 
