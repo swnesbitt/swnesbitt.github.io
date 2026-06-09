@@ -1,23 +1,14 @@
 # Steve Nesbitt
 
-<div class="profile-row" markdown="1">
-
+<div class="profile-row">
 <img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
-
-<div class="profile-titles" markdown="1">
-
-**Professor & Department Head**
-
+<div class="profile-titles">
+<p><strong>Professor &amp; Department Head</strong></p>
 <div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
-
-**Associate Dean for Research** *(starting August 16, 2026)*
-
+<p><strong>Associate Dean for Research</strong> <em>(starting August 16, 2026)</em></p>
 <div class="affil-line"><img src="images/block-i.png" alt="Illinois LAS Block I" class="dept-icon"><span><a href="https://las.illinois.edu">College of Liberal Arts and Sciences</a>, University of Illinois Urbana-Champaign</span></div>
-
 <div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
-
 </div>
-
 </div>
 
 ---
