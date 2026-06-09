@@ -6,11 +6,11 @@
 
 <div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
 
-<div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
-
-**Associate Dean for Research** *(starting August 16, 2026)*
+<img src="images/block-i.png" alt="Illinois Block I" class="dept-icon" style="vertical-align: middle; margin-right: 0.3em;"> **Associate Dean for Research** *(starting August 16, 2026)*
 
 <div class="affil-line"><span><a href="https://las.illinois.edu">College of Liberal Arts and Sciences</a>, University of Illinois Urbana-Champaign</span></div>
+
+<div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 
 <div style="clear:both;"></div>
 
