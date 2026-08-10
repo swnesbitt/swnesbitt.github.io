@@ -3,10 +3,10 @@
 <div class="profile-row">
 <img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
 <div class="profile-titles">
-<p><strong>Professor &amp; Department Head</strong></p>
-<div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
-<p><strong>Associate Dean for Research</strong> <em>(starting August 16, 2026)</em></p>
+<p><strong>Associate Dean for Research</strong></p>
 <div class="affil-line"><img src="images/block-i.png" alt="Illinois LAS Block I" class="dept-icon"><span><a href="https://las.illinois.edu">College of Liberal Arts and Sciences</a>, University of Illinois Urbana-Champaign</span></div>
+<p><strong>Professor &amp; Department Head</strong> <em>(through August 2026)</em></p>
+<div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 0.5rem 0;">
 <div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 </div>
@@ -79,4 +79,5 @@ Wiley-Blackwell, 2018 · 488 pp.
 | **Email** | snesbitt@illinois.edu |
 | **Phone** | (217) 244-3740 |
 | **Office** | 3074 Natural History Building, 1301 W Green St, Urbana, IL 61801 |
+| **Office** | 2090 Lincoln Hall, 702 S Wright St, Urbana, IL 61801 |
 | **Department** | [Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu), University of Illinois |
