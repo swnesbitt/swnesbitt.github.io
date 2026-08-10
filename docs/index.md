@@ -3,10 +3,10 @@
 <div class="profile-row">
 <img src="images/profile.jpg" alt="Steve Nesbitt" class="profile-photo">
 <div class="profile-titles">
+<p><strong>Professor</strong></p>
+<div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
 <p><strong>Associate Dean for Research</strong></p>
 <div class="affil-line"><img src="images/block-i.png" alt="Illinois LAS Block I" class="dept-icon"><span><a href="https://las.illinois.edu">College of Liberal Arts and Sciences</a>, University of Illinois Urbana-Champaign</span></div>
-<p><strong>Professor &amp; Department Head</strong> <em>(through August 2026)</em></p>
-<div class="affil-line"><img src="images/climas-icon.png" alt="CliMAS" class="dept-icon"><span><a href="https://atmos.illinois.edu">Department of Climate, Meteorology &amp; Atmospheric Sciences</a> (CliMAS), University of Illinois Urbana-Champaign</span></div>
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 0.5rem 0;">
 <div class="affil-line"><img src="images/argonne-icon.png" alt="Argonne National Laboratory" class="dept-icon"><span>Joint Appointment, <a href="https://www.anl.gov/evs">Environmental Sciences Division</a>, Argonne National Laboratory</span></div>
 </div>
@@ -16,7 +16,7 @@
 
 ## About
 
-Steve Nesbitt is a Professor and Department Head in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud dynamics and physics and high-impact weather, including as Lead Principal Investigator of [RELAMPAGO](relampago-wrf.md) and co-PI of [CACTI](relampago-wrf.md) (2018–2019), a joint NSF/DOE/NASA/NOAA campaign in Córdoba, Argentina, which is the largest land-based field campaign conducted outside the US.
+Steve Nesbitt is a Professor in the [Department of Climate, Meteorology & Atmospheric Sciences](https://atmos.illinois.edu) (CliMAS) at the University of Illinois Urbana-Champaign, where he has been a faculty member since 2006. His research focuses on **radar and satellite meteorology, mesoscale convective systems, tropical and subtropical meteorology, cloud microphysics, and data science applied to the water cycle and high-impact weather**. He is recognized for leading major international field campaigns studying cloud dynamics and physics and high-impact weather, including as Lead Principal Investigator of [RELAMPAGO](relampago-wrf.md) and co-PI of [CACTI](relampago-wrf.md) (2018–2019), a joint NSF/DOE/NASA/NOAA campaign in Córdoba, Argentina, which is the largest land-based field campaign conducted outside the US.
 
 ---
 
