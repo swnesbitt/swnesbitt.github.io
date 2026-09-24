@@ -171,6 +171,13 @@ Working with faculty and students from institutions historically under-represent
 
 Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WILL (Illinois Public Media) — a weekly radio show and podcast (debuted August 1, 2025; airs Saturdays at 11:00 a.m. and Sundays at 8:00 p.m. on WILL-AM 580, and is also available via [streaming](https://will.illinois.edu/weatherrealness)) that brings Illinois weather and climate scientists to the public. See also the launch coverage from [The 21st Show](https://will.illinois.edu/21stshow/story/new-podcast-explores-illinois-weather-and-climate) and the [CliMAS announcement](https://climas.illinois.edu/news/2025-08-08/weather-realness-podcast-now-live).
 
+### Weather Geeks
+
+Two-time guest on [*Weather Geeks*](https://podcasts.apple.com/us/podcast/weather-geeks/id1373312240), hosted by Dr. Marshall Shepherd:
+
+- [Unlocking Radar Data Amidst Record Severe Weather](https://podcasts.apple.com/us/podcast/unlocking-radar-data-amidst-record-severe-weather/id1373312240?i=1000791237394) (Episode 417, September 23, 2026) — AI in meteorology, Midwest tornado trends, remote sensing, and Radar DataTree
+- April 9, 2020 — the fundamentals of radar meteorology
+
 ### Media interviews
 
 A complete list of print, broadcast, and online interviews — including coverage from national and international outlets — is maintained in the [Full CV](https://uofi.box.com/s/2j7gmjdkrnti84ne8291359j0hwjrgsz).
