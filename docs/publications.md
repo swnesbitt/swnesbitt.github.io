@@ -1,6 +1,6 @@
 # Publications
 
-Steve Nesbitt has authored **108+ peer-reviewed journal articles**, **150+ conference presentations**, and **80+ invited lectures** spanning precipitation radar, tropical meteorology, cloud microphysics, and severe weather.
+Steve Nesbitt has authored **112 peer-reviewed journal articles**, **150+ conference presentations**, and **80+ invited lectures** spanning precipitation radar, tropical meteorology, cloud microphysics, and severe weather.
 
 He currently serves as **Chief Editor, Atmosphere section, Journal of Atmospheric and Oceanic Technology** and serves on the **AMS Publications Commission**.
 

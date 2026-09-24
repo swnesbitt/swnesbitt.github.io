@@ -52,6 +52,7 @@ Wiley-Blackwell, 2018 · 488 pp.
 
 | Year | Honor |
 |------|-------|
+| 2026 | Emerging Innovator Award, University of Illinois Urbana-Champaign |
 | 2025 | Fellow, American Meteorological Society |
 | 2025–26 | Fellow, Big Ten Academic Alliance Department Executive Officer Program |
 | 2025 | Distinguished Visitor, National University of Córdoba, Argentina |
