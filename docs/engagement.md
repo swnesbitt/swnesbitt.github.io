@@ -180,6 +180,15 @@ Two-time guest on [*Weather Geeks*](https://podcasts.apple.com/us/podcast/weathe
 
 ### Media interviews
 
+**Recent coverage — the 2026 Illinois tornado season**
+
+- *Popular Science* (August 30, 2026) — tornado season coverage citing tornado-density analysis for central Illinois
+- *WBEZ Chicago / Chicago Sun-Times* (August 27, 2026) — [More than 200 tornadoes have hit Illinois this year. How come?](https://www.wbez.org/environment/2026/08/27/200-tornadoes-illinois-2026)
+- *Grist* (August 24, 2026) — [Even meteorologists are baffled by the Midwestern tornado season](https://grist.org/extreme-weather/even-meteorologists-are-baffled-by-the-midwestern-tornado-season/)
+- *NPR* (June 23, 2026) — [Severe weather tears through the Midwest, leaving at least 3 people dead](https://www.npr.org/2026/06/23/nx-s1-5866727/severe-weather-tears-through-the-midwest-leaving-at-least-3-people-dead)
+- *WILL-AM, Illinois Public Media* (June 22, 2026) — record Illinois tornado season, with Robert Trapp and Trent Ford
+- *WCIA* — [Climatologists break down reason behind record-breaking Illinois tornado numbers](https://www.wcia.com/news/illinois-news/climatologists-break-down-reason-behind-record-breaking-illinois-tornado-numbers/), with Trent Ford
+
 A complete list of print, broadcast, and online interviews — including coverage from national and international outlets — is maintained in the [Full CV](https://uofi.box.com/s/2j7gmjdkrnti84ne8291359j0hwjrgsz).
 
 </div>
