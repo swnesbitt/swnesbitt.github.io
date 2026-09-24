@@ -176,7 +176,7 @@ Co-host of [*Weather Realness*](https://will.illinois.edu/weatherrealness) on WI
 Two-time guest on [*Weather Geeks*](https://podcasts.apple.com/us/podcast/weather-geeks/id1373312240), hosted by Dr. Marshall Shepherd:
 
 - [Unlocking Radar Data Amidst Record Severe Weather](https://podcasts.apple.com/us/podcast/unlocking-radar-data-amidst-record-severe-weather/id1373312240?i=1000791237394) (Episode 417, September 23, 2026) — AI in meteorology, Midwest tornado trends, remote sensing, and Radar DataTree
-- April 9, 2020 — the fundamentals of radar meteorology
+- [Radar Meteorology & Observations of Severe Storms](https://podcasts.apple.com/us/podcast/radar-meteorology-observations-of-severe-storms/id1373312240?i=1000472993704) (Episode 108, April 29, 2020) — the fundamentals of radar meteorology, field research, and storms in Argentina and Brazil
 
 ### Media interviews
 
