@@ -5,10 +5,11 @@
 | Name | Degree | Notes |
 |------|--------|-------|
 | Alfonso Ladino | Ph.D. | |
-| Melinda Berman | Ph.D. | Co-advised with Jeff Trapp |
+| Matias Suarez | Ph.D. | Universidad Nacional de Córdoba, Argentina |
 | Eddie Wolff | Ph.D. | Co-advised with Jeff Trapp |
 | Kaitlyn Jesmonth | Ph.D. | |
 | Kaylee Lundstrom | Ph.D. | Co-advised with Bob Rauber |
+| Charlie Remmers | M.S. | |
 
 ---
 
@@ -18,11 +19,12 @@
 
 | Name | Current Position |
 |------|-----------------|
+| Melinda Berman | NASA Postdoctoral Fellow, Marshall Space Flight Center |
 | Sun Young Park | Civil and Environmental Engineering, UIUC |
-| Piyush Garg | Scientist, RWE |
+| Piyush Garg | Lead AI Weather Scientist, Point72 |
 | Itinderjot Singh | Postdoctoral Fellow, Colorado State University |
 | Maite Cancelada | Assistant Professor, Universidad de Buenos Aires |
-| Randy Chase | Scientist, Tomorrow.io |
+| Randy Chase | Assistant Professor, The Ohio State University |
 | Jake Mulholland | Assistant Professor, University at Albany |
 | Daniel Harnos | NOAA Climate Prediction Center |
 | Kirstin Gleicher/Harnos | NOAA Weather Prediction Center |
