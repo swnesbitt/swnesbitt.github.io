@@ -188,7 +188,7 @@ Two-time guest on [*Weather Geeks*](https://podcasts.apple.com/us/podcast/weathe
 - *WCIA* (June 23, 2026) — [Climatologists break down reason behind record-breaking Illinois tornado numbers](https://www.wcia.com/news/illinois-news/climatologists-break-down-reason-behind-record-breaking-illinois-tornado-numbers/), with Trent Ford
 - *The 21st Show*, WILL / Illinois Public Media (June 22, 2026) — [What's behind Illinois' record year for tornadoes?](https://will.illinois.edu/21stshow/story/whats-behind-illinois-record-year-for-tornadoes), with Robert Trapp and Trent Ford
 
-A complete list of print, broadcast, and online interviews — including coverage from national and international outlets — is maintained in the [Full CV](https://uofi.box.com/s/2j7gmjdkrnti84ne8291359j0hwjrgsz).
+A complete list of print, broadcast, and online interviews — including coverage from national and international outlets — is maintained in the [Full CV](https://uofi.box.com/s/zu5cjp4gdbzwzpzpmx1yjmaihqijna9p).
 
 </div>
 
